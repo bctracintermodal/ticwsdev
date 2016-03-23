@@ -1,0 +1,9 @@
+<jqm_featureCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/jqm_featureCategories.xsd">
+	<category id="region" enabled="false" zoom="false" ></category>
+	<category id="region_none" enabled="false" zoom="false" >
+		<style event="onMouseOut" fillColor="#999" strokeColor="#0066CC" strokeWidth="1" />
+	</category>
+	<category id="state" enabled="false" zoom="false" >
+		<style event="onMouseOut" fillColor="#999" strokeColor="#CCC" strokeWidth="2" />
+	</category>
+</jqm_featureCategories>
