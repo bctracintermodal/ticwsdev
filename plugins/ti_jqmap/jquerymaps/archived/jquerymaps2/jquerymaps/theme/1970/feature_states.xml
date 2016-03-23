@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jqm_features xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_features.xsd">
+	<feature id="us_ak" category="state_1" label="Alaska" label_map="AK" popup="1970 Population: 300,382" pop_2010="710231" pop_2000="626932" pop_1990="550043" pop_1980="401851" pop_1970="300382"/>
+	<feature id="us_al" category="state_3" label="Alabama" label_map="AL" popup="1970 Population: 3,444,165" pop_2010="4779736" pop_2000="4447100" pop_1990="4040587" pop_1980="3893888" pop_1970="3444165"/>
+	<feature id="us_ar" category="state_2" label="Arkansas" label_map="AR" popup="1970 Population: 1,923,295" pop_2010="2915918" pop_2000="2673400" pop_1990="2350725" pop_1980="2286435" pop_1970="1923295"/>
+	<feature id="us_az" category="state_2" label="Arizona" label_map="AZ" popup="1970 Population: 1,770,900" pop_2010="6392017" pop_2000="5130632" pop_1990="3665228" pop_1980="2718215" pop_1970="1770900"/>
+	<feature id="us_ca" category="state_6" label="California" label_map="CA" popup="1970 Population: 19,953,134" pop_2010="37253956" pop_2000="33871648" pop_1990="29760021" pop_1980="23667902" pop_1970="19953134"/>
+	<feature id="us_co" category="state_3" label="Colorado" label_map="CO" popup="1970 Population: 2,207,259" pop_2010="5029196" pop_2000="4301261" pop_1990="3294394" pop_1980="2889964" pop_1970="2207259"/>
+	<feature id="us_ct" category="state_3" label="Connecticut" label_map="CT" popup="1970 Population: 3,031,709" pop_2010="3574097" pop_2000="3405565" pop_1990="3287116" pop_1980="3107576" pop_1970="3031709"/>
+	<feature id="us_dc" category="state_1" label="D. Columbia" label_map="DC" popup="1970 Population: 75,651" pop_2010="601723" pop_2000="572059" pop_1990="6069" pop_1980="638333" pop_1970="75651"/>
+	<feature id="us_de" category="state_1" label="Delaware" label_map="DE" popup="1970 Population: 548,104" pop_2010="897934" pop_2000="783600" pop_1990="666168" pop_1980="594338" pop_1970="548104"/>
+	<feature id="us_fl" category="state_4" label="Florida" label_map="FL" popup="1970 Population: 6,789,443" pop_2010="18801310" pop_2000="15982378" pop_1990="12937926" pop_1980="9746324" pop_1970="6789443"/>
+	<feature id="us_ga" category="state_4" label="Georgia" label_map="GA" popup="1970 Population: 4,589,575" pop_2010="9687653" pop_2000="8186453" pop_1990="6478216" pop_1980="5463105" pop_1970="4589575"/>
+	<feature id="us_hi" category="state_1" label="Hawaii" label_map="HI" popup="1970 Population: 768,561" pop_2010="1360301" pop_2000="1211537" pop_1990="1108229" pop_1980="964691" pop_1970="768561"/>
+	<feature id="us_ia" category="state_3" label="Iowa" label_map="IA" popup="1970 Population: 2,824,376" pop_2010="3046355" pop_2000="2926324" pop_1990="2776755" pop_1980="2913808" pop_1970="2824376"/>
+	<feature id="us_id" category="state_1" label="Idaho" label_map="ID" popup="1970 Population: 712,567" pop_2010="1567582" pop_2000="1293953" pop_1990="1006749" pop_1980="943935" pop_1970="712567"/>
+	<feature id="us_il" category="state_5" label="Illinois" label_map="IL" popup="1970 Population: 11,113,976" pop_2010="12830632" pop_2000="12419293" pop_1990="11430602" pop_1980="11426518" pop_1970="11113976"/>
+	<feature id="us_in" category="state_4" label="Indiana" label_map="IN" popup="1970 Population: 5,193,669" pop_2010="6483802" pop_2000="6080485" pop_1990="5544159" pop_1980="5490224" pop_1970="5193669"/>
+	<feature id="us_ks" category="state_3" label="Kansas" label_map="KS" popup="1970 Population: 2,246,578" pop_2010="2853118" pop_2000="2688418" pop_1990="2477574" pop_1980="2363679" pop_1970="2246578"/>
+	<feature id="us_ky" category="state_3" label="Kentucky" label_map="KY" popup="1970 Population: 3,218,706" pop_2010="4339367" pop_2000="4041769" pop_1990="3685296" pop_1980="3660777" pop_1970="3218706"/>
+	<feature id="us_la" category="state_3" label="Louisiana" label_map="LA" popup="1970 Population: 3,641,306" pop_2010="4533372" pop_2000="4468976" pop_1990="4219973" pop_1980="4205900" pop_1970="3641306"/>
+	<feature id="us_ma" category="state_4" label="Massachusetts" label_map="MA" popup="1970 Population: 5,689,170" pop_2010="6547629" pop_2000="6349097" pop_1990="6016425" pop_1980="5737037" pop_1970="5689170"/>
+	<feature id="us_md" category="state_3" label="Maryland" label_map="MD" popup="1970 Population: 3,922,399" pop_2010="5773552" pop_2000="5296486" pop_1990="4781468" pop_1980="4216975" pop_1970="3922399"/>
+	<feature id="us_me" category="state_1" label="Maine" label_map="ME" popup="1970 Population: 992,048" pop_2010="1328361" pop_2000="1274923" pop_1990="1227928" pop_1980="1124660" pop_1970="992048"/>
+	<feature id="us_mi" category="state_5" label="Michigan" label_map="MI" popup="1970 Population: 8,875,083" pop_2010="9883640" pop_2000="9938444" pop_1990="9295297" pop_1980="9262078" pop_1970="8875083"/>
+	<feature id="us_mn" category="state_3" label="Minnesota" label_map="MN" popup="1970 Population: 3,804,971" pop_2010="5303925" pop_2000="4919479" pop_1990="4375099" pop_1980="4075970" pop_1970="3804971"/>
+	<feature id="us_mo" category="state_4" label="Missouri" label_map="MO" popup="1970 Population: 4,676,501" pop_2010="5988927" pop_2000="5595211" pop_1990="5117073" pop_1980="4916686" pop_1970="4676501"/>
+	<feature id="us_ms" category="state_3" label="Mississippi" label_map="MS" popup="1970 Population: 2,216,912" pop_2010="2967297" pop_2000="2844658" pop_1990="2573216" pop_1980="2520638" pop_1970="2216912"/>
+	<feature id="us_mt" category="state_1" label="Montana" label_map="MT" popup="1970 Population: 694,409" pop_2010="989415" pop_2000="902195" pop_1990="799065" pop_1980="78669" pop_1970="694409"/>
+	<feature id="us_nc" category="state_4" label="North Carolina" label_map="NC" popup="1970 Population: 5,082,059" pop_2010="9535483" pop_2000="8049313" pop_1990="6628637" pop_1980="5881766" pop_1970="5082059"/>
+	<feature id="us_nd" category="state_1" label="North Dakota" label_map="ND" popup="1970 Population: 617,761" pop_2010="672591" pop_2000="642200" pop_1990="6388" pop_1980="652717" pop_1970="617761"/>
+	<feature id="us_ne" category="state_2" label="Nebraska" label_map="NE" popup="1970 Population: 1,483,493" pop_2010="1826341" pop_2000="1711263" pop_1990="1578385" pop_1980="1569825" pop_1970="1483493"/>
+	<feature id="us_nh" category="state_1" label="New Hampshire" label_map="NH" popup="1970 Population: 737,681" pop_2010="1316470" pop_2000="1235786" pop_1990="1109252" pop_1980="92061" pop_1970="737681"/>
+	<feature id="us_nj" category="state_4" label="New Jersey" label_map="NJ" popup="1970 Population: 7,168,164" pop_2010="8791894" pop_2000="8414350" pop_1990="7730188" pop_1980="7364823" pop_1970="7168164"/>
+	<feature id="us_nm" category="state_2" label="New Mexico" label_map="NM" popup="1970 Population: 1,016,000" pop_2010="2059179" pop_2000="1819046" pop_1990="1515069" pop_1980="1302894" pop_1970="1016000"/>
+	<feature id="us_nv" category="state_1" label="Nevada" label_map="NV" popup="1970 Population: 488,738" pop_2010="2700551" pop_2000="1998257" pop_1990="1201833" pop_1980="800493" pop_1970="488738"/>
+	<feature id="us_ny" category="state_6" label="New York" label_map="NY" popup="1970 Population: 18,236,967" pop_2010="19378102" pop_2000="18976457" pop_1990="17990455" pop_1980="17558072" pop_1970="18236967"/>
+	<feature id="us_oh" category="state_5" label="Ohio" label_map="OH" popup="1970 Population: 10,652,017" pop_2010="11536504" pop_2000="11353140" pop_1990="10847115" pop_1980="10797630" pop_1970="10652017"/>
+	<feature id="us_ok" category="state_3" label="Oklahoma" label_map="OK" popup="1970 Population: 2,559,229" pop_2010="3751351" pop_2000="3450654" pop_1990="3145585" pop_1980="3025290" pop_1970="2559229"/>
+	<feature id="us_or" category="state_3" label="Oregon" label_map="OR" popup="1970 Population: 2,091,385" pop_2010="3831074" pop_2000="3421399" pop_1990="2842321" pop_1980="2633105" pop_1970="2091385"/>
+	<feature id="us_pa" category="state_5" label="Pennsylvania" label_map="PA" popup="1970 Population: 11,793,909" pop_2010="12702379" pop_2000="12281054" pop_1990="11881643" pop_1980="11863895" pop_1970="11793909"/>
+	<feature id="us_pr" category="state_3" label="Puerto Rico" label_map="PR" popup="1970 Population: 2,712,033" pop_2010="3725789" pop_2000="3808610" pop_1990="3522037" pop_1980="3196520" pop_1970="2712033"/>
+	<feature id="us_ri" category="state_1" label="Rhode Island" label_map="RI" popup="1970 Population: 946,725" pop_2010="1052567" pop_2000="1048319" pop_1990="1003464" pop_1980="947154" pop_1970="946725"/>
+	<feature id="us_sc" category="state_3" label="South Carolina" label_map="SC" popup="1970 Population: 2,590,516" pop_2010="4625364" pop_2000="4012012" pop_1990="3486703" pop_1980="3121820" pop_1970="2590516"/>
+	<feature id="us_sd" category="state_1" label="South Dakota" label_map="SD" popup="1970 Population: 665,507" pop_2010="814180" pop_2000="754844" pop_1990="696004" pop_1980="690768" pop_1970="665507"/>
+	<feature id="us_tn" category="state_3" label="Tennessee" label_map="TN" popup="1970 Population: 3,923,687" pop_2010="6346105" pop_2000="5689283" pop_1990="4877185" pop_1980="4591120" pop_1970="3923687"/>
+	<feature id="us_tx" category="state_5" label="Texas" label_map="TX" popup="1970 Population: 11,196,730" pop_2010="25145561" pop_2000="20851820" pop_1990="16986510" pop_1980="14229191" pop_1970="11196730"/>
+	<feature id="us_ut" category="state_2" label="Utah" label_map="UT" popup="1970 Population: 1,059,273" pop_2010="2763885" pop_2000="2233169" pop_1990="1722850" pop_1980="1461037" pop_1970="1059273"/>
+	<feature id="us_va" category="state_4" label="Virginia" label_map="VA" popup="1970 Population: 4,648,494" pop_2010="8001024" pop_2000="7078515" pop_1990="6187358" pop_1980="5346818" pop_1970="4648494"/>
+	<feature id="us_vt" category="state_1" label="Vermont" label_map="VT" popup="1970 Population: 44,433" pop_2010="625741" pop_2000="608827" pop_1990="562758" pop_1980="511456" pop_1970="44433"/>
+	<feature id="us_wa" category="state_3" label="Washington" label_map="WA" popup="1970 Population: 3,409,169" pop_2010="6724540" pop_2000="5894121" pop_1990="4866692" pop_1980="4132156" pop_1970="3409169"/>
+	<feature id="us_wi" category="state_4" label="Wisconsin" label_map="WI" popup="1970 Population: 4,417,731" pop_2010="5686986" pop_2000="5363675" pop_1990="4891769" pop_1980="4705767" pop_1970="4417731"/>
+	<feature id="us_wv" category="state_2" label="West Virginia" label_map="WV" popup="1970 Population: 1,744,237" pop_2010="1852994" pop_2000="1808344" pop_1990="1793477" pop_1980="1949644" pop_1970="1744237"/>
+	<feature id="us_wy" category="state_1" label="Wyoming" label_map="WY" popup="1970 Population: 332,416" pop_2010="563626" pop_2000="493782" pop_1990="453588" pop_1980="469557" pop_1970="332416"/>
+</jqm_features>

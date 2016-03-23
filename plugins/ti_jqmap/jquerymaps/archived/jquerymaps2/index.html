@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>jQueryMaps - Evaluation Pack - HTML/XML - US States - Advanced Features</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="last-modified" content="Sat, 14 Sep 2013 08:00:00 GMT" />
+    <meta name="description" content="High-end, jQuery-based, interactive maps: NBA Teams, US maps, OpenStreeMap and many other jQuery-based interactive map solutions." />
+    <meta name="keywords" content="jquerymaps, jquery maps, interactive maps, dynamic maps, world map, us map, zip code map, election map, state map, county map, mall map, web map, mapping solutions, custom map, location map, territory map, area map" />
+    <meta name="copyright" content="Copyright &copy; 2004-2013 jQueryMaps" />
+    <meta name="robots" content="index,follow" />
+    <meta name="robots" content="all" />
+    <meta name="language" content="en" />
+	<link type="image/x-icon" href="http://www.jquerymaps.com/favicon.ico" rel="icon" />
+	<link type="image/x-icon" href="http://www.jquerymaps.com/favicon.ico" rel="shortcut icon" />     
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    
+	<!-- For IE 8 and lower, jQueryMaps uses Google ExplorerCanvas -->
+    <!--[if IE]><script>if (document.documentMode < 9) document.write("<script src='jquerymaps/libs/excanvas/excanvas_tagcanvas.js'><\/script>");</script><![endif]-->
+
+	<!-- jQuery and jQuery-UI libraries are needed by jQueryMaps -->
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" ></script>
+    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script type="text/javascript" src="https://www.youtube.com/player_api"></script>
+
+	<!-- This library contains everything directly related to the map -->
+	<script type="text/javascript" src="jquerymaps/libs/jqmMapMgmt.js" ></script>
+
+	<!-- These libraries are not needed by jQueryMaps, but used in this evaluation pack -->
+    <script type="text/javascript" src="jquerymaps/libs/chart.js"></script>
+</head>
+
+<body>
+	<!-- The page header, not needed by jQueryMaps -->
+	<div id="header">
+    	<div class="page">
+           	<div class="logo"><a href="http://www.jquerymaps.com" target="_self"><img src="images/logo.png" title="jQueryMaps" width="214" height="42" /></a></div>
+            <div class="tools">
+            	<ul id="menu">
+                	<li><a href="http://www.jquerymaps.com/download/?e=html_xml_usstates_02" target="_self" class="download">DOWNLOAD</a></li>
+                	<li><a href="http://www.jquerymaps.com/store/?e=html_xml_usstates_02" target="_self" class="store">STORE</a></li>
+                	<li><a href="http://www.jquerymaps.com/company/contact/" target="_self"  class="email">CONTACT US</a></li>
+                	<li class="last"><a href="#" target="_self" class="phone">1-866-392-0071</a></li>
+                </ul>
+            </div>
+		</div>
+    </div>
+
+	<div class="page">
+        <div class="box_main">
+        
+            <div class="box span_9">
+            	<div class="top"><h2 id="jqm_breadcrumbs">US States</h2></div>
+                <div class="cnt">
+                
+                    <!-- Map loading animation -->
+                    <div id="jqm_loader" class="jqm_loader"></div>
+                    
+                    <!-- The map will be created inside this DIV element -->
+                    <div id="jqm_map"></div>
+                    
+                    <!-- This DIV element pops up when you hover over an area or marker -->
+			        <div id="jqm_popup" class="jqm_popup"><div class="title">##label##</div><div class="popup">##popup##</div></div>
+
+					<!-- This DIV element pops up when you click on an area -->
+                    <div id="jqm_dialog" title="">
+                    	<div id="jqm_box_dialog" class="jqm_box_dialog"></div>
+                    	<canvas id="jqm_box_canvas" class="jqm_box_dialog"></canvas>
+                        <div id="ytplayer"></div>
+					</div>
+                </div>
+            </div>
+            
+            <div class="box span_6">
+            	<div class="top"><h3>Tools</h3></div>
+				<div class="cnt">
+					<div class="span_2">
+                    	<h3><a id="f_feature_icon" href="Javascript:toogleBox('f_feature');" class="more icon function" title="Feature Functions">Feature Functions</a></h3>
+                        <div id="f_feature" class="flist hide">
+                            <ul class="box_tools">
+                                <li><a href='Javascript:jqmMap.clickOnFeature("us_tx");' title="Zoom in on Texas">Zoom in on Texas</a></li>
+                                <li><a href='Javascript:jqmMap.clickOnFeature("us_ny");' title="Zoom in on New York">Zoom in on New York</a></li>
+                                <li>Highlight Functions!!!</li>
+                                <li><a href='Javascript:jqmMap.highlightFeature("us_fl");' title="Highlight Florida">Highlight Florida</a>, <a href='Javascript:jqmMap.highlightFeature("us_mi");' title="Highlight Michigan">Michigan</a></li>
+                                <li><a href='Javascript:jqmMap.unhighlightFeatures();jqmMap.redraw();' title="Unhighlight All">Unhighlight All</a></li>
+                                <li>Scaling Functions</li>
+                                <li>
+
+								<a href='Javascript:jqmScaleFeature("us_ks","1.5");' title="Scale Kansas x1.5">Scale Kansas x1.5</a>, 
+								<a href='Javascript:jqmScaleFeature("us_or","2");' title="Scale Oregon x2">Oregon x2</a></li>
+								<a href='Javascript:jqmScaleFeature("us_ny","5");' title="Scale Oregon x2">NY x5</a></li>
+								
+								
+                                <li><a href='Javascript:jqmUnscaleFeatures();' title="Unscale All">Unscale All</a></li>
+				                <!-- The map legend to show/hide each range -->
+                                <li>Show/Hide Ranges</li>
+                                <li><div id="feature_icon_1" class="boxlegend" style="background: #FEFBDA" color="#FEFBDA"></div><a id="feature_1" href='Javascript:jqmShowOrHideFeaturesRange("1", "state");' class="enable" title="Click to show/hide this category" label="&lt;1" >Hide &lt;1</a></li>
+                                <li><div id="feature_icon_2" class="boxlegend" style="background: #FDF15B" color="#FDF15B"></div><a id="feature_2" href='Javascript:jqmShowOrHideFeaturesRange("2", "state");' class="enable" title="Click to show/hide this category" label="1-2" >Hide 1-2</a></li>
+                                <li><div id="feature_icon_3" class="boxlegend" style="background: #FBCB0D" color="#FBCB0D"></div><a id="feature_3" href='Javascript:jqmShowOrHideFeaturesRange("3", "state");' class="enable" title="Click to show/hide this category" label="2-4" >Hide 2-4</a></li>
+                                <li><div id="feature_icon_4" class="boxlegend" style="background: #F27621" color="#F27621"></div><a id="feature_4" href='Javascript:jqmShowOrHideFeaturesRange("4", "state");' class="enable" title="Click to show/hide this category" label="4-8" >Hide 4-8</a></li>
+                                <li><div id="feature_icon_5" class="boxlegend" style="background: #F93013" color="#F93013"></div><a id="feature_5" href='Javascript:jqmShowOrHideFeaturesRange("5", "state");' class="enable" title="Click to show/hide this category" label="8-16" >Hide 8-16</a></li>
+                                <li><div id="feature_icon_6" class="boxlegend" style="background: #B61014" color="#B61014"></div><a id="feature_6" href='Javascript:jqmShowOrHideFeaturesRange("6", "state");' class="enable" title="Click to show/hide this category" label="&gt;16" >Hide &gt;16</a></li>
+                            </ul>
+                        </div>
+                        <br />
+                        <h3><a id='f_marker_icon' href="Javascript:toogleBox('f_marker');" class="more icon function" title="Marker Functions">Marker Functions</a></h3>
+                        <div id='f_marker' class='flist hide'>
+                            <ul class="box_tools">
+							
+                                <li>Interactive Maps</li>
+
+                                <li><div id="category_icon_city_4" class="marker"><img src="jquerymaps/images/icons/city_14.png" /></div><a id="category_city_4" href='Javascript:jqmShowOrHideMarkersRange("city_4");' class="enable" title="Hide/show this category" label="TNCP" >TNCP</a></li>
+                                <li><div id="category_icon_city_3" class="marker"><img src="jquerymaps/images/icons/city_12.png" /></div><a id="category_city_3" href='Javascript:jqmShowOrHideMarkersRange("city_3");' class="enable" title="Hide/show this category" label="TPSP" >TPSP</a></li>
+                                <li><div id="category_icon_city_2" class="marker"><img src="jquerymaps/images/icons/city_10.png" /></div><a id="category_city_2" href='Javascript:jqmShowOrHideMarkersRange("city_2");' class="enable" title="Hide/show this category" label="TMVP" >TMVP</a></li>
+                                <li><div id="category_icon_city_blue" class="marker"><img src="jquerymaps/images/icons/city_blue.png" /></div><a id="category_city_blue" href='Javascript:jqmShowOrHideMarkersRange("city_blue");' class="enable" title="Hide/show this category" label="Freehold" >Freehold</a></li>
+								
+                                <li>City Population2</li>
+                                <li><a href='Javascript:jqmFindMarkerAndDisplayPopup("24394");' title="Show Popup for Boston, MA">Show Popup for Boston, MA</a></li>
+                                <li><a href='Javascript:jqmFocusOnPoint(2141, 34.0522222, -118.2427778, 5000000);' title="Zoom in on Los Angeles, CA">Zoom in on Los Angeles, CA</a></li>
+								
+								
+								
+                            </ul>
+                        </div>
+                  	</div>
+                    <div class='span_2 last'>
+                    	<h3><a id='f_zoom_icon' href="Javascript:toogleBox('f_zoom');" class="more icon function" title="Zoom Functions">Zoom Functions</a></h3>
+                        <div id='f_zoom' class='flist hide'>
+                            <ul class="box_tools">
+                                <li><a href='Javascript:jqmMap.zoomIn();' title="Zoom In">Zoom In</a></li>
+                                <li><a href='Javascript:jqmMap.zoomOut();' title="Zoom Out">Zoom Out</a></li>
+                                <li><a href='Javascript:jqmMap.zoomScaleFactor(0.4);' title="Zoom by Scale Factor (x4)">Zoom by Scale Factor (x4)</a></li>
+                                <li><a href='Javascript:jqmDisplayInitialView();' title="Display Initial View">Display Initial View</a></li>
+                            </ul>
+                        </div>
+                        <br />
+                        <h3><a id='f_useful_icon' href="Javascript:toogleBox('f_useful');" class="more icon function" title="Other Functions">Other Functions</a></h3>
+                        <div id='f_useful' class='flist hide'>
+                            <ul class="box_tools">
+                                <li><a href='Javascript:print();' title="Print Map">Print Map</a></li>
+                            </ul>
+                        </div>
+					</div>
+				</div>
+			</div>
+            
+            <div class="span_3 last">
+                <div class="box span_3 last">
+                    <div class="top"><h3>Select the Year to Show</h3></div>
+                    <div class="cnt">
+                        <div id="slider"></div>
+                        <div class="box_slider_legend">
+                            <span style='display: inline-block; width: 30px; text-align: center; margin-right: 21px;'>|<br><a href="Javascript:jqmSelectYear('1970');" title="Click to display 1970 population">1970</a></span>
+                            <span style='display: inline-block; width: 30px; text-align: center; margin-right: 21px;'>|<br><a href="Javascript:jqmSelectYear('1980');" title="Click to display 1980 population">1980</a></span>
+                            <span style='display: inline-block; width: 30px; text-align: center; margin-right: 21px;'>|<br><a href="Javascript:jqmSelectYear('1990');" title="Click to display 1990 population">1990</a></span>
+                            <span style='display: inline-block; width: 30px; text-align: center; margin-right: 18px;'>|<br><a href="Javascript:jqmSelectYear('2000');" title="Click to display 2000 population">2000</a></span>
+                            <span style='display: inline-block; width: 30px; text-align: center; margin-right:  0px;'>|<br><a href="Javascript:jqmSelectYear('2010');" title="Click to display 2010 population">2010</a></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box span_3">
+                    <div class="top"><h3>Legend (Population)</h3></div>
+                    <div class="cnt">
+                        <ul class="legend">
+                        	<li><div class="legend_box" style="background: #FEFBDA;"></div>&lt; 1.000.000</li>
+                        	<li><div class="legend_box" style="background: #FDF15B" ></div>1.000.000 - 2.000.000</li>
+                        	<li><div class="legend_box" style="background: #FBCB0D" ></div>2.000.000 - 4.000.000</li>
+                        	<li><div class="legend_box" style="background: #F27621" ></div>4.000.000 - 8.000.000</li>
+                        	<li><div class="legend_box" style="background: #F93013" ></div>8.000.000 - 16.000.000</li>
+                        	<li><div class="legend_box" style="background: #B61014" ></div>16.000.000 or more</li>
+						</ul>
+                    </div>                    
+                </div>
+			</div>
+        </div>
+    
+    	<div class="box_panel">
+        
+            <div class="box span_3">
+            	<div class="top"><h3><a id="box_how_icon" href='JavaScript:toogleBox("box_how");' class="less icon">How to use this sample</a></h3></div>
+                <div id="box_how" class="cnt">
+					<ul class="box_instructions">
+						<li>Hover over a marker or a state for basic information.</li>
+                    	<li>Click on a marker for more information.</li>
+                    	<li>Click on a state for more information and zooming in on it.</li>
+                    	<li>Roll the mouse wheel to zoom in and out.</li>
+                    	<li>Click and drag the map to pan.</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="box span_3">
+            	<div class="top"><h3><a id="box_start_icon" href='JavaScript:toogleBox("box_start");' class="less icon">Getting Started</a></h3></div>
+                <div id="box_start" class="cnt">
+					<ul class="box_menu">
+                        <li><a href="javascript:showVideo();" title="About jQueryMaps" ><span class="video"></span> About jQueryMaps</a></li>
+                        <li><a href="http://www.jquerymaps.com/support/docs/eval_install.php?e=html_xml_usstates_02" target="_blank">Installation Guide</a></li>
+                        <li><a href="http://www.jquerymaps.com/support/faq/?e=html_xml_usstates_02" target="_blank" class="last">Frequently Asked Questions</a></li>
+					</ul>
+                </div>
+            </div>
+            
+            <div class="box span_3">
+            	<div class="top"><h3><a id="box_resources_icon" href='JavaScript:toogleBox("box_resources");' class="less icon">More Resources</a></h3></div>
+                <div id="box_resources" class="cnt">
+					<ul class="box_menu">
+						<li><a href="http://www.jquerymaps.com/support/docs/developers_guide.php" target="_blank">jQueryMaps Developer's Guide</a></li>
+                        <li><a href="http://www.jquerymaps.com/support/docs/developers_guide.php#apiReference" target="_blank">jQueryMaps API Reference</a></li>
+                        <li><a href="http://www.jquerymaps.com/support/docs/eval_license.php?e=html_xml_usstates_02" target="_blank" class="last">License Agreement</a></li>
+					</ul>
+                </div>
+            </div>
+            
+            <div class="box span_3">
+            	<div class="top"><h3><a id="box_contact_icon" href='JavaScript:toogleBox("box_contact");' class="less icon">Get Support</a></h3></div>
+                <div id="box_contact" class="cnt">
+					<ul class="box_menu">
+						<li><a href="http://www.jquerymaps.com/company/contact/" target="_self">Contact Us</a></li>
+                        <li><a href="#" class="last">1-866-392-0071</a></li>
+					</ul>
+                </div>
+            </div>
+        </div>
+
+	</div>
+</body>
+</html>

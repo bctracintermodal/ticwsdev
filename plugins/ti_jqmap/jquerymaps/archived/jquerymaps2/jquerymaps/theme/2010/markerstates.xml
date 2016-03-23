@@ -1,0 +1,3023 @@
+
+<jqm_markers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_markers.xsd">
+
+					<marker 
+					popup="BNSF / 3526 West 43rd St. / Chicago, IL 60632" 
+					id="1" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8155462" 
+					lon="-87.7126054" 
+					/>
+
+					<marker 
+					popup="BNSF / 5601 West 26th St. / Cicero, IL 60804" 
+					id="2" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Cicero, IL" 
+					lat="41.843345" 
+					lon="-87.764284" 
+					/>
+
+					<marker 
+					popup="BNSF / 26664 Baseline Rd. / Elwood, IL 60421" 
+					id="3" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Elwood, IL" 
+					lat="41.3815441" 
+					lon="-88.1477009" 
+					/>
+
+					<marker 
+					popup="UPRR NOLA / 100 Avondale Garden Road / Avondale, LA 70094" 
+					id="4" 
+					category="marine_pool_neutral" 
+					market="New Orleans" 
+					label="Avondale, LA" 
+					lat="29.9196299" 
+					lon="-90.207688" 
+					/>
+
+					<marker 
+					popup="ESS  / 3839 E Overton Rd. / Dallas, TX 75216" 
+					id="5" 
+					category="marine_pool_neutral" 
+					market="Dallas" 
+					label="Dallas, TX" 
+					lat="32.726895" 
+					lon="-96.764111" 
+					/>
+
+					<marker 
+					popup="KCS - Dallas / 11931 Shiloh Rd. / Dallas, TX 75228" 
+					id="6" 
+					category="marine_pool_neutral" 
+					market="Dallas" 
+					label="Dallas, TX" 
+					lat="32.8585414" 
+					lon="-96.6658697" 
+					/>
+
+					<marker 
+					popup="Twin Cities / 7180 Copperqueen Dr. / El Paso, TX 79915" 
+					id="7" 
+					category="marine_pool_neutral" 
+					market="El Paso" 
+					label="El Paso, TX" 
+					lat="31.756789" 
+					lon="-106.379128" 
+					/>
+
+					<marker 
+					popup="UPRR Santa Teresa / 9050 Strauss Road / El Paso, TX 88008" 
+					id="8" 
+					category="marine_pool_neutral" 
+					market="El Paso" 
+					label="El Paso, TX" 
+					lat="31.8397756" 
+					lon="-106.6880841" 
+					/>
+
+					<marker 
+					popup="BNSF - Alliance / 1111 Intermodal Pkwy / Haslet, TX 76052" 
+					id="9" 
+					category="marine_pool_neutral" 
+					market="Dallas" 
+					label="Haslet, TX" 
+					lat="32.9794512" 
+					lon="-97.3273795" 
+					/>
+
+					<marker 
+					popup="WWinners Container Yard / 10000 Wallisville Rd / Houston, TX 77013" 
+					id="10" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.793478" 
+					lon="-95.253632" 
+					/>
+
+					<marker 
+					popup="BNSF - Pearland / 214 Brisbane Rd. / Houston, TX 77061" 
+					id="11" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.6395376" 
+					lon="-95.290796" 
+					/>
+
+					<marker 
+					popup="UPRR Englewood / 5500 Wallisville Road / Houston, TX 77020" 
+					id="12" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.7872864" 
+					lon="-95.3146905" 
+					/>
+
+					<marker 
+					popup="UPRR Settegast / 6800 Kirkpatrick Blvd. / Houston, TX 77028" 
+					id="13" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.826276" 
+					lon="-95.290365" 
+					/>
+
+					<marker 
+					popup="Integrated Marine Service / 500 East Barbours Cut Blvd / La Porte, TX 77571" 
+					id="14" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="La Porte, TX" 
+					lat="29.6734254" 
+					lon="-95.0149068" 
+					/>
+
+					<marker 
+					popup="Port of Houston - Barbours Cut / 1515 East Barbours Cut Blvd / La Porte, TX 77571" 
+					id="15" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="La Porte, TX" 
+					lat="29.6819781" 
+					lon="-94.9935502" 
+					/>
+
+					<marker 
+					popup="Mobile Container Term / 901 Ezra Trice Blvd / Mobile, AL 36603" 
+					id="16" 
+					category="marine_pool_neutral" 
+					market="Mobile" 
+					label="Mobile, AL" 
+					lat="30.667243" 
+					lon="-88.0419921" 
+					/>
+
+					<marker 
+					popup="CSX - Mobile / 2000 Industrial Canal Road East / Mobile, AL 36602" 
+					id="17" 
+					category="marine_pool_neutral" 
+					market="Mobile" 
+					label="Mobile, AL" 
+					lat="30.7106885" 
+					lon="-88.0473287" 
+					/>
+
+					<marker 
+					popup="Avondale Container East / 7800 Almonaster Blvd. / New Orleans, LA 70126" 
+					id="18" 
+					category="marine_pool_neutral" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="30.0069981" 
+					lon="-90.0005908" 
+					/>
+
+					<marker 
+					popup="Port of Houston - Bayport / 12855 Port Road / Seabrook, TX 77586" 
+					id="19" 
+					category="marine_pool_neutral" 
+					market="Houston" 
+					label="Seabrook, TX" 
+					lat="29.5632331" 
+					lon="-95.0257814" 
+					/>
+
+					<marker 
+					popup="CSX - Tampa / 1901 North 62nd Street / Tampa, FL 36169" 
+					id="20" 
+					category="marine_pool_neutral" 
+					market="Tampa" 
+					label="Tampa, FL" 
+					lat="27.95903" 
+					lon="-82.388722" 
+					/>
+
+					<marker 
+					popup="Ports America / 2510 Guy N. Verger Boulevard / Tampa, FL 33605" 
+					id="21" 
+					category="marine_pool_neutral" 
+					market="Tampa" 
+					label="Tampa, FL" 
+					lat="27.9254581" 
+					lon="-82.4332892" 
+					/>
+
+					<marker 
+					popup="WWinners Container Yard / 3611 Speedway Run / Von Ormy, TX 78073" 
+					id="22" 
+					category="marine_pool_neutral" 
+					market="San Antonio" 
+					label="Von Ormy, TX" 
+					lat="29.2780362" 
+					lon="-98.5762012" 
+					/>
+
+					<marker 
+					popup="UPRR San Antonio / 13001 I-35 South / Von Ormy, TX 78202" 
+					id="23" 
+					category="marine_pool_neutral" 
+					market="San Antonio" 
+					label="Von Ormy, TX" 
+					lat="29.319684" 
+					lon="-98.614757" 
+					/>
+
+					<marker 
+					popup="Avondale Container West / 101 Avondale Garden Rd. / Westego, LA 70094" 
+					id="24" 
+					category="marine_pool_neutral" 
+					market="New Orleans" 
+					label="Westego, LA" 
+					lat="29.9196204" 
+					lon="-90.2076528" 
+					/>
+
+					<marker 
+					popup="UPRR Dallas (DIT) / 3701 South I-45 / Wilmer, TX 75172" 
+					id="25" 
+					category="marine_pool_neutral" 
+					market="Dallas" 
+					label="Wilmer, TX" 
+					lat="32.5975086" 
+					lon="-96.6836756" 
+					/>
+
+					<marker 
+					popup="CSX - Atlanta (Hulsey) / 173 Boulevard S.E. / Atlanta, GA 30312" 
+					id="26" 
+					category="marine_pool_neutral" 
+					market="Atlanta" 
+					label="Atlanta, GA" 
+					lat="33.7493114" 
+					lon="-84.3699475" 
+					/>
+
+					<marker 
+					popup="CSX / 501 S. Country Rd. 800 E / Avon , IN 46123" 
+					id="27" 
+					category="marine_pool_neutral" 
+					market="Indianapolis" 
+					label="Avon , IN" 
+					lat="39.755834" 
+					lon="-86.381078" 
+					/>
+
+					<marker 
+					popup="CSX - Bedford Park / 7000 W. 71st. St. / Bedford Park, IL 60638" 
+					id="28" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Bedford Park, IL" 
+					lat="41.7629174" 
+					lon="-87.795606" 
+					/>
+
+					<marker 
+					popup="CSX - Charlotte  / 5430 Hovis Road / Charlotte, NC 28206" 
+					id="29" 
+					category="marine_pool_neutral" 
+					market="Charlotte" 
+					label="Charlotte, NC" 
+					lat="35.271795" 
+					lon="-80.893658" 
+					/>
+
+					<marker 
+					popup="CSX - 59th St. / 2101 W. 59th St. / Chicago, IL 60636" 
+					id="30" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7859693" 
+					lon="-87.6771022" 
+					/>
+
+					<marker 
+					popup="Kentucky Container  / 5550 Este Avenue / Cincinnati, OH 45232" 
+					id="31" 
+					category="marine_pool_neutral" 
+					market="Cincinnati" 
+					label="Cincinnati, OH" 
+					lat="39.1843347" 
+					lon="-84.5019496" 
+					/>
+
+					<marker 
+					popup="American Marine Express / 765 E. 140th Street / Cleveland, OH 44110" 
+					id="32" 
+					category="marine_pool_neutral" 
+					market="Cleveland" 
+					label="Cleveland, OH" 
+					lat="41.5598292" 
+					lon="-81.5851967" 
+					/>
+
+					<marker 
+					popup="CSX - Cleveland / 601 E. 152nd St. / Cleveland, OH 44110" 
+					id="33" 
+					category="marine_pool_neutral" 
+					market="Cleveland" 
+					label="Cleveland, OH" 
+					lat="41.5638277" 
+					lon="-81.5755362" 
+					/>
+
+					<marker 
+					popup="Mason Dixon / 2700 Transport Rd. / Cleveland, OH 44115" 
+					id="34" 
+					category="marine_pool_neutral" 
+					market="Cleveland" 
+					label="Cleveland, OH" 
+					lat="41.485925" 
+					lon="-81.670833" 
+					/>
+
+					<marker 
+					popup="Trimodal / 2001 Walcutt Rd. / Columbus, OH 43228" 
+					id="35" 
+					category="marine_pool_neutral" 
+					market="Columbus" 
+					label="Columbus, OH" 
+					lat="39.990961" 
+					lon="-83.138946" 
+					/>
+
+					<marker 
+					popup="CSX - Columbus / 2351 W. Belt Dr. / Columbus, OH 43228" 
+					id="36" 
+					category="marine_pool_neutral" 
+					market="Columbus" 
+					label="Columbus, OH" 
+					lat="39.314528" 
+					lon="-84.375855" 
+					/>
+
+					<marker 
+					popup="Chassis Pro / 5740 Federal Street / Detroit, MI 48209" 
+					id="37" 
+					category="marine_pool_neutral" 
+					market="Detroit" 
+					label="Detroit, MI" 
+					lat="42.323663" 
+					lon="-83.108609" 
+					/>
+
+					<marker 
+					popup="CSX - Detroit / 6750 Dix Ave. / Detroit, MI 48209" 
+					id="38" 
+					category="marine_pool_neutral" 
+					market="Detroit" 
+					label="Detroit, MI" 
+					lat="42.3160643" 
+					lon="-83.1174443" 
+					/>
+
+					<marker 
+					popup="CSX - Atlanta (Fairburn) / 6700 McLarin Road / Fairburn, GA 30213" 
+					id="39" 
+					category="marine_pool_neutral" 
+					market="Atlanta" 
+					label="Fairburn, GA" 
+					lat="33.5491465" 
+					lon="-84.6004193" 
+					/>
+
+					<marker 
+					popup="CNRR / 600 Fern St. / Ferndale, MI 48220" 
+					id="40" 
+					category="marine_pool_neutral" 
+					market="Detroit" 
+					label="Ferndale, MI" 
+					lat="42.4504355" 
+					lon="-83.1169142" 
+					/>
+
+					<marker 
+					popup="CNRR / 16800 S. Center St. / Harvey, IL 60426" 
+					id="41" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Harvey, IL" 
+					lat="41.5846251" 
+					lon="-87.6461677" 
+					/>
+
+					<marker 
+					popup="M&amp;M Transport Inc. / 6238 W. Minnesota / Indianapolis, IN 46241" 
+					id="42" 
+					category="marine_pool_neutral" 
+					market="Indianapolis" 
+					label="Indianapolis, IN" 
+					lat="39.7393409" 
+					lon="-86.2690494" 
+					/>
+
+					<marker 
+					popup="CSX - Jacksonville  / 5902 Sportsman Club Road / Jacksonville, FL 32219" 
+					id="43" 
+					category="marine_pool_neutral" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.386771" 
+					lon="-81.768023" 
+					/>
+
+					<marker 
+					popup="Integrated Ind. - Joliet / 785 Draper Avenue / Joliet, IL 60432" 
+					id="44" 
+					category="marine_pool_neutral" 
+					market="Chicago" 
+					label="Joliet, IL" 
+					lat="41.5390222" 
+					lon="-88.0547253" 
+					/>
+
+					<marker 
+					popup="NS Rail Appliance Park / 4913 Heller Street / Louisville, KY 40218" 
+					id="45" 
+					category="marine_pool_neutral" 
+					market="Louisville" 
+					label="Louisville, KY" 
+					lat="38.181293" 
+					lon="-85.657353" 
+					/>
+
+					<marker 
+					popup="Miami Container Repair / 9801 Northwest 106th Street / Medley, FL 33178" 
+					id="46" 
+					category="marine_pool_neutral" 
+					market="Miami" 
+					label="Medley, FL" 
+					lat="25.7706155" 
+					lon="-80.164027" 
+					/>
+
+					<marker 
+					popup="CSX - Nashville / 3086 Sidco Drive / Nashville, TN 37204" 
+					id="47" 
+					category="marine_pool_neutral" 
+					market="Nashville" 
+					label="Nashville, TN" 
+					lat="36.0961085" 
+					lon="-86.7569218" 
+					/>
+
+					<marker 
+					popup="NS - Pittsburgh / 701 Wall Avenue / Wall, PA 15148" 
+					id="48" 
+					category="marine_pool_neutral" 
+					market="Pittsburgh" 
+					label="Wall, PA" 
+					lat="40.3949761" 
+					lon="-79.7769737" 
+					/>
+
+					<marker 
+					popup="UP - DUPO / Highway 3 &amp; State Street / Dupo, IL 62239" 
+					id="49" 
+					category="marine_pool_neutral" 
+					market="St. Louis" 
+					label="Dupo, IL" 
+					lat="38.5124226" 
+					lon="-90.2092468" 
+					/>
+
+					<marker 
+					popup="CSX - KC / 3301 East 147th Street / Kansas City, MO 64147" 
+					id="50" 
+					category="marine_pool_neutral" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="38.86014" 
+					lon="-94.5738624" 
+					/>
+
+					<marker 
+					popup="UP - NEFF / 4801 Gardener Ave / Kansas City, MO 64120" 
+					id="51" 
+					category="marine_pool_neutral" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="39.125673" 
+					lon="-94.523848" 
+					/>
+
+					<marker 
+					popup="Chippewa Falls - CN Ramp / 1160 West River  St. / Chippewa, WI 54729" 
+					id="52" 
+					category="marine_pool_neutral" 
+					market="Chippewa" 
+					label="Chippewa, WI" 
+					lat="44.927225" 
+					lon="-91.4104822" 
+					/>
+
+					<marker 
+					popup="UPRR/Iowa Interstate / 2722 South Avenue / Council Bluff, IA 51503" 
+					id="53" 
+					category="marine_pool_neutral" 
+					market="Council Bluffs" 
+					label="Council Bluff, IA" 
+					lat="41.2343146" 
+					lon="-95.8343576" 
+					/>
+
+					<marker 
+					popup="BNSF - Portland / 3930 NW Yeon  / Portland, OR 97210" 
+					id="54" 
+					category="marine_pool_neutral" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.5497792" 
+					lon="-122.7224054" 
+					/>
+
+					<marker 
+					popup="BNSF / 44 S Handord St. / Seattle, WA 98134" 
+					id="55" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.5755916" 
+					lon="-122.3369709" 
+					/>
+
+					<marker 
+					popup="BNSF  / 12400 51st. Pl South / Seattle , WA 98178" 
+					id="56" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle , WA" 
+					lat="47.4926682" 
+					lon="-122.2706442" 
+					/>
+
+					<marker 
+					popup="BNSF / 1701 Pierce Butler Rt. / St.Paul, MN 55104" 
+					id="57" 
+					category="marine_pool_neutral" 
+					market="St. Paul" 
+					label="St.Paul, MN" 
+					lat="44.9695497" 
+					lon="-93.1742954" 
+					/>
+
+					<marker 
+					popup="CSX - Baltimore / 4801 Keither Ave. / Baltimore, MD 21224" 
+					id="58" 
+					category="marine_pool_neutral" 
+					market="Baltimore" 
+					label="Baltimore, MD" 
+					lat="39.2656966" 
+					lon="-76.5534929" 
+					/>
+
+					<marker 
+					popup="MIT Dundalk / 2700 Broening Hwy / Baltimore, MD 21222" 
+					id="59" 
+					category="marine_pool_neutral" 
+					market="Baltimore" 
+					label="Baltimore, MD" 
+					lat="39.2483224" 
+					lon="-76.5346878" 
+					/>
+
+					<marker 
+					popup="NS - Baltimore / 4800 East Lombard Street / Baltimore, MD 21224" 
+					id="60" 
+					category="marine_pool_neutral" 
+					market="Baltimore" 
+					label="Baltimore, MD" 
+					lat="39.2918928" 
+					lon="-76.5555213" 
+					/>
+
+					<marker 
+					popup="Seagirt / 2600 Broening Hwy / Baltimore, MD 21222" 
+					id="61" 
+					category="marine_pool_neutral" 
+					market="Baltimore" 
+					label="Baltimore, MD" 
+					lat="39.2559708" 
+					lon="-76.5383839" 
+					/>
+
+					<marker 
+					popup="Red Hook Container Terminal - Brooklyn / 70 Hamilton Avenue / Brooklyn, NY 11231" 
+					id="62" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Brooklyn, NY" 
+					lat="40.6786907" 
+					lon="-74.0036426" 
+					/>
+
+					<marker 
+					popup="CSX Buffalo / 1252 William St Rear / Buffalo, NY 14206" 
+					id="63" 
+					category="marine_pool_neutral" 
+					market="Buffalo" 
+					label="Buffalo, NY" 
+					lat="42.8820351" 
+					lon="-78.8099472" 
+					/>
+
+					<marker 
+					popup="APM / 5080 McLester street / Elizabeth, NJ 7207" 
+					id="64" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Elizabeth, NJ" 
+					lat="40.669178" 
+					lon="-74.1591192" 
+					/>
+
+					<marker 
+					popup="Maher Chassis Depot / 1510 Bay avenue / Elizabeth, NJ 7201" 
+					id="65" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Elizabeth, NJ" 
+					lat="40.676305" 
+					lon="-74.1570156" 
+					/>
+
+					<marker 
+					popup="Global Chassis Depot / Colony Road  / Jersey City, NJ 7305" 
+					id="66" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Jersey City, NJ" 
+					lat="40.681617" 
+					lon="-74.0790305" 
+					/>
+
+					<marker 
+					popup="NS - Croxton / 100 County Rd / Jersey City, NJ 7307" 
+					id="67" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Jersey City, NJ" 
+					lat="40.7619573" 
+					lon="-74.0678925" 
+					/>
+
+					<marker 
+					popup="Ironbound / 921 Delancy Street / Newark, NJ 7105" 
+					id="68" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Newark, NJ" 
+					lat="40.7091386" 
+					lon="-74.1293141" 
+					/>
+
+					<marker 
+					popup="CSX - Little Ferry / 2200 83rd. St / North Bergen, NJ 7047" 
+					id="69" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="North Bergen, NJ" 
+					lat="40.8107104" 
+					lon="-74.0189008" 
+					/>
+
+					<marker 
+					popup="CSX - Philadelphia / 3400 S. Christopher Columbus Blvd. / Philadelphia, PA 19148" 
+					id="70" 
+					category="marine_pool_neutral" 
+					market="Philadelphia" 
+					label="Philadelphia, PA" 
+					lat="39.9550562" 
+					lon="-75.1392012" 
+					/>
+
+					<marker 
+					popup="Packer Ave / 3301 Christopher Columbus BLVD / Philadelphia, PA 19148" 
+					id="71" 
+					category="marine_pool_neutral" 
+					market="Philadelphia" 
+					label="Philadelphia, PA" 
+					lat="39.9550562" 
+					lon="-75.1392012" 
+					/>
+
+					<marker 
+					popup="Tioga Marine Terminal / 3451 North Delaware Avenue, (Delaware River at Tioga Street) / Philadelphia, PA 19134" 
+					id="72" 
+					category="marine_pool_neutral" 
+					market="Philadelphia" 
+					label="Philadelphia, PA" 
+					lat="39.9951659" 
+					lon="-75.1019272" 
+					/>
+
+					<marker 
+					popup="Red Hook Container Terminal - Port Newark / 138 Marsh Street / Port Newark, NJ 7114" 
+					id="74" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Port Newark, NJ" 
+					lat="40.6944975" 
+					lon="-74.1496946" 
+					/>
+
+					<marker 
+					popup="NYCT / 300 Western Ave. / Staten Island, NY 10303" 
+					id="76" 
+					category="marine_pool_neutral" 
+					market="NY/NJ" 
+					label="Staten Island, NY" 
+					lat="40.6374543" 
+					lon="-74.1851231" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 555A Maritime St. / Oakland, CA 94607" 
+					id="77" 
+					category="marine_pool_neutral" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.8047118" 
+					lon="-122.3124958" 
+					/>
+
+					<marker 
+					popup="Oakland International Container Terminal (OICT - East) / 1999 Middle Harbor Road / Oakland, CA 80205" 
+					id="78" 
+					category="marine_pool_neutral" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.7977839" 
+					lon="-122.3050423" 
+					/>
+
+					<marker 
+					popup="Oakland International Container Terminal (OICT - West) / 2505 Middle Harbor Road / Oakland, CA 80640" 
+					id="79" 
+					category="marine_pool_neutral" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.8032232" 
+					lon="-122.3202359" 
+					/>
+
+					<marker 
+					popup="Ports America Outer Harbor Terminal / 1599 Maritime Street / Oakland, CA 94607" 
+					id="80" 
+					category="marine_pool_neutral" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.8153393" 
+					lon="-122.3082773" 
+					/>
+
+					<marker 
+					popup="UPRR Oakland / 1408 Middle Harbor Road / Oakland, CA 94607" 
+					id="81" 
+					category="marine_pool_neutral" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.7977062" 
+					lon="-122.2980443" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 1501 N Schmeer Rd / Portland, OR 97217" 
+					id="82" 
+					category="marine_pool_neutral" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.590219" 
+					lon="-122.683503" 
+					/>
+
+					<marker 
+					popup="Northwest Container Service / 11920 N. Burgard Rd. / Portland, OR 97203" 
+					id="83" 
+					category="marine_pool_neutral" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.6074849" 
+					lon="-122.76562" 
+					/>
+
+					<marker 
+					popup="Port of Portland (ICTSI T6) / 7201 N. Marine Dr. / Portland, OR 97203" 
+					id="84" 
+					category="marine_pool_neutral" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.6422482" 
+					lon="-122.7514897" 
+					/>
+
+					<marker 
+					popup="Portland Container Repair / 9449 N. Burgard Way / Portland, OR 97203" 
+					id="85" 
+					category="marine_pool_neutral" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.6133691" 
+					lon="-122.7742584" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 1 S Idaho St. / Seattle, WA 98134" 
+					id="86" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.564581" 
+					lon="-122.3446851" 
+					/>
+
+					<marker 
+					popup="SSA Marine Terminal - T18 / 1050 SW Spokane Street / Seattle, WA 98134" 
+					id="87" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.5714431" 
+					lon="-122.3482955" 
+					/>
+
+					<marker 
+					popup="SSA Marine Terminal - T30 / 2431 East Marginal Way South / Seattle, WA 98134" 
+					id="88" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.583473" 
+					lon="-122.341347" 
+					/>
+
+					<marker 
+					popup="Total Terminals Inc. (TTI) / 401 Alaskan Way / Seattle, WA 98104" 
+					id="89" 
+					category="marine_pool_neutral" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.5991685" 
+					lon="-122.3359569" 
+					/>
+
+					<marker 
+					popup="Husky Terminal / 1101 Port of Tacoma Road / Tacoma, WA 98421" 
+					id="90" 
+					category="marine_pool_neutral" 
+					market="Tacoma" 
+					label="Tacoma, WA" 
+					lat="47.2693357" 
+					lon="-122.4048869" 
+					/>
+
+					<marker 
+					popup="Northwest Container Service / 1801 Taylor Way / Tacoma, WA 98421" 
+					id="91" 
+					category="marine_pool_neutral" 
+					market="Tacoma" 
+					label="Tacoma, WA" 
+					lat="47.273748" 
+					lon="-122.386131" 
+					/>
+
+					<marker 
+					popup="Olympic Container Terminal (OCT) / 710 Port of Tacoma Road / Tacoma, WA 98421" 
+					id="92" 
+					category="marine_pool_neutral" 
+					market="Tacoma" 
+					label="Tacoma, WA" 
+					lat="47.2701659" 
+					lon="-122.4091762" 
+					/>
+
+					<marker 
+					popup="Washington United Terminal (WUT) / 1815 Port of Tacoma Road / Tacoma, WA 98421" 
+					id="93" 
+					category="marine_pool_neutral" 
+					market="Tacoma" 
+					label="Tacoma, WA" 
+					lat="47.2619598" 
+					lon="-122.3902002" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 1711 Alameda Street / Wilmington, CA 90744" 
+					id="94" 
+					category="marine_pool_neutral" 
+					market="Los Angeles" 
+					label="Wilmington, CA" 
+					lat="33.799161" 
+					lon="-118.2454401" 
+					/>
+
+					<marker 
+					popup="Conglobal Depot-Channahon  / 23264 South Youngs Rd / Channahon, IL " 
+					id="97" 
+					category="marine_pool_private" 
+					market="Chicago" 
+					label="Channahon, IL" 
+					lat="41.461265" 
+					lon="-88.178898" 
+					/>
+
+					<marker 
+					popup="Columbia Depot  / 1155 Polaris St / Elizabeth, NJ " 
+					id="98" 
+					category="marine_pool_private" 
+					market="NY/NJ" 
+					label="Elizabeth, NJ" 
+					lat="40.6741555" 
+					lon="-74.1643196" 
+					/>
+
+					<marker 
+					popup="Conglobal Depot-Forest View  / 6401 W. 46th St / Forest View, IL " 
+					id="99" 
+					category="marine_pool_private" 
+					market="Chicago" 
+					label="Forest View, IL" 
+					lat="41.8103673" 
+					lon="-87.7862953" 
+					/>
+
+					<marker 
+					popup="Conglobal Depot-Memphis  / 1684 Florida St / Memphis, TN " 
+					id="100" 
+					category="marine_pool_private" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.100357" 
+					lon="-90.061676" 
+					/>
+
+					<marker 
+					popup="Conglobal Depot-Oakland  / 555A Maritime St / Oakland, CA " 
+					id="101" 
+					category="marine_pool_private" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.8047118" 
+					lon="-122.3124958" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 1 S Idaho St. / Seattle, WA " 
+					id="102" 
+					category="marine_pool_private" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.564581" 
+					lon="-122.3446851" 
+					/>
+
+					<marker 
+					popup="ConGlobal Depot-LA/LB / 1711 Alameda Street / Los Angeles, CA " 
+					id="103" 
+					category="marine_pool_private" 
+					market="Los Angeles" 
+					label="Los Angeles, CA" 
+					lat="34.0221899" 
+					lon="-118.2394072" 
+					/>
+
+					<marker 
+					popup="C &amp; C in Savannah, GA  / 487 Bourne Avenue / Garden City, GA " 
+					id="104" 
+					category="marine_pool_private" 
+					market="Savannah" 
+					label="Garden City, GA" 
+					lat="32.1266955" 
+					lon="-81.1711919" 
+					/>
+
+					<marker 
+					popup="TRAC Service Center / 400 E. Redondo Beach Boulevard / Los Angeles, CA " 
+					id="105" 
+					category="marine_pool_private" 
+					market="Los Angeles" 
+					label="Los Angeles, CA" 
+					lat="33.8926612" 
+					lon="-118.26865" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 1802 Hwy 146 North  / LaPorte, TX " 
+					id="106" 
+					category="marine_pool_private" 
+					market="Houston" 
+					label="LaPorte, TX" 
+					lat="29.6433525" 
+					lon="-95.0188656" 
+					/>
+
+					<marker 
+					popup="ConGlobal Ind. / 2534 Spruill Avenue  / North Charleston, SC " 
+					id="107" 
+					category="marine_pool_private" 
+					market="Charleston" 
+					label="North Charleston, SC" 
+					lat="32.8451182" 
+					lon="-79.9582776" 
+					/>
+
+					<marker 
+					popup="CSX / 501 S. Country Rd. 800 E / Avon , IN 46123" 
+					id="108" 
+					category="marine_pool_coop" 
+					market="Indianapolis" 
+					label="Avon , IN" 
+					lat="39.755834" 
+					lon="-86.381078" 
+					/>
+
+					<marker 
+					popup="CSX - Bedford Park / 7000 W. 71st. St. / Bedford Park, IL 60638" 
+					id="109" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Bedford Park, IL" 
+					lat="41.7629174" 
+					lon="-87.795606" 
+					/>
+
+					<marker 
+					popup="CP Rail - Chassis Yard (TFC) / 415 E.Green St. / Bensenville, IL 60106" 
+					id="110" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Bensenville, IL" 
+					lat="41.953262" 
+					lon="-87.9330709" 
+					/>
+
+					<marker 
+					popup="BNSF / 3526 West 43rd St. / Chicago, IL 60632" 
+					id="111" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8155462" 
+					lon="-87.7126054" 
+					/>
+
+					<marker 
+					popup="CSX - 59th St. / 2101 W. 59th St. / Chicago, IL 60636" 
+					id="112" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7859693" 
+					lon="-87.6771022" 
+					/>
+
+					<marker 
+					popup="BNSF / 5601 West 26th St. / Cicero, IL 60804" 
+					id="113" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Cicero, IL" 
+					lat="41.843345" 
+					lon="-87.764284" 
+					/>
+
+					<marker 
+					popup="NS - Rickenbacker / 3329 Thoroughbred Dr. / Columbus, MI 43217" 
+					id="114" 
+					category="marine_pool_coop" 
+					market="Columbus" 
+					label="Columbus, MI" 
+					lat="32.5483287" 
+					lon="-84.9118235" 
+					/>
+
+					<marker 
+					popup="CSX - Columbus / 2351 W. Belt Dr. / Columbus, OH 43228" 
+					id="115" 
+					category="marine_pool_coop" 
+					market="Columbus" 
+					label="Columbus, OH" 
+					lat="39.314528" 
+					lon="-84.375855" 
+					/>
+
+					<marker 
+					popup="NS Rail - Detroit (Livernois) / 2725 Livernois Ave / Detroit, MI 48209" 
+					id="116" 
+					category="marine_pool_coop" 
+					market="Detroit" 
+					label="Detroit, MI" 
+					lat="42.320443" 
+					lon="-83.116805" 
+					/>
+
+					<marker 
+					popup="CSX - Detroit / 6750 Dix Ave. / Detroit, MI 48209" 
+					id="117" 
+					category="marine_pool_coop" 
+					market="Detroit" 
+					label="Detroit, MI" 
+					lat="42.3160643" 
+					lon="-83.1174443" 
+					/>
+
+					<marker 
+					popup="CSX East St. Louis / 3900 Rose Lake Road / East St. Louis, IL 62201" 
+					id="118" 
+					category="marine_pool_coop" 
+					market="St. Louis" 
+					label="East St. Louis, IL" 
+					lat="38.6338426" 
+					lon="-89.5722931" 
+					/>
+
+					<marker 
+					popup="BNSF / 26664 Baseline Rd. / Elwood, IL 60421" 
+					id="119" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Elwood, IL" 
+					lat="41.3815441" 
+					lon="-88.1477009" 
+					/>
+
+					<marker 
+					popup="CNRR  / 1585 S. Senate Ave. / Indianapolis, IN 46225" 
+					id="120" 
+					category="marine_pool_coop" 
+					market="Indianapolis" 
+					label="Indianapolis, IN" 
+					lat="39.7465023" 
+					lon="-86.1642851" 
+					/>
+
+					<marker 
+					popup="UPRR - Global IV (JIT) / 3000 S. Patterson Rd. / Joliet, IL 60436" 
+					id="121" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Joliet, IL" 
+					lat="41.4800638" 
+					lon="-88.1185669" 
+					/>
+
+					<marker 
+					popup="Integrated Ind. - Joliet / 785 Draper Avenue / Joliet, IL 60432" 
+					id="122" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Joliet, IL" 
+					lat="41.5390222" 
+					lon="-88.0547253" 
+					/>
+
+					<marker 
+					popup="NS Rail Appliance Park / 4913 Heller Street / Louisville, KY 40218" 
+					id="123" 
+					category="marine_pool_coop" 
+					market="Louisville" 
+					label="Louisville, KY" 
+					lat="38.181293" 
+					lon="-85.657353" 
+					/>
+
+					<marker 
+					popup="NS - Cleveland / 5300 Greenhurst Dr. / Maple, OH 44137" 
+					id="124" 
+					category="marine_pool_coop" 
+					market="Cleveland" 
+					label="Maple, OH" 
+					lat="41.4194248" 
+					lon="-81.5752834" 
+					/>
+
+					<marker 
+					popup="UPRR - Global II  / 301 W. Lake St. / Northlake, IL 60164" 
+					id="125" 
+					category="marine_pool_coop" 
+					market="Chicago" 
+					label="Northlake, IL" 
+					lat="41.8998365" 
+					lon="-87.9145597" 
+					/>
+
+					<marker 
+					popup="UPRR - Global III / 2701 Intermodal Dr. / Rochelle, IL 60168" 
+					id="126" 
+					category="marine_pool_coop" 
+					market="Rochelle" 
+					label="Rochelle, IL" 
+					lat="41.9031906" 
+					lon="-89.0870188" 
+					/>
+
+					<marker 
+					popup="BNSF / 585 W. 53rd Place / Denver, CO 80216" 
+					id="127" 
+					category="marine_pool_coop" 
+					market="Denver" 
+					label="Denver, CO" 
+					lat="39.796755" 
+					lon="-104.9955406" 
+					/>
+
+					<marker 
+					popup="Denver Intermodal Xpress / 3400 E. 54th Ave / Denver, CO 80216" 
+					id="128" 
+					category="marine_pool_coop" 
+					market="Denver" 
+					label="Denver, CO" 
+					lat="39.7946153" 
+					lon="-104.9476958" 
+					/>
+
+					<marker 
+					popup="UPRR Denver / 1851 East 40th Ave. / Denver, CO 80205" 
+					id="129" 
+					category="marine_pool_coop" 
+					market="Denver" 
+					label="Denver, CO" 
+					lat="39.7729103" 
+					lon="-104.9653146" 
+					/>
+
+					<marker 
+					popup="Crown Container / 10051 Dallas Street / Henderson, CO 80640" 
+					id="130" 
+					category="marine_pool_coop" 
+					market="Denver" 
+					label="Henderson, CO" 
+					lat="39.878834" 
+					lon="-104.879561" 
+					/>
+
+					<marker 
+					popup="Harrington Trucking / 510 South Delong Street / Salt Lake City, UT 84104" 
+					id="131" 
+					category="marine_pool_coop" 
+					market="" 
+					label="Salt Lake City, UT" 
+					lat="40.7580964" 
+					lon="-111.9541844" 
+					/>
+
+					<marker 
+					popup="UPRR Salt Lake City / 1045 South 5500 West / Salt Lake City, UT 84104" 
+					id="132" 
+					category="marine_pool_coop" 
+					market="Salt Lake City" 
+					label="Salt Lake City, UT" 
+					lat="40.749569" 
+					lon="-112.0189401" 
+					/>
+
+					<marker 
+					popup="UPRR NOLA / 100 Avondale Garden Road / Avondale, LA 70094" 
+					id="133" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="Avondale, LA" 
+					lat="29.9196299" 
+					lon="-90.207688" 
+					/>
+
+					<marker 
+					popup="KCS - Dallas / 11931 Shiloh Rd. / Dallas, TX 75228" 
+					id="134" 
+					category="marine_pool_coop" 
+					market="Dallas" 
+					label="Dallas, TX" 
+					lat="32.8585414" 
+					lon="-96.6658697" 
+					/>
+
+					<marker 
+					popup="BNSF - El Paso / 805 South Santa Fe St. / El Paso, TX 79901" 
+					id="135" 
+					category="marine_pool_coop" 
+					market="El Paso" 
+					label="El Paso, TX" 
+					lat="31.7517279" 
+					lon="-106.488659" 
+					/>
+
+					<marker 
+					popup="UPRR Santa Teresa / 9050 Strauss Road / El Paso, TX 88008" 
+					id="136" 
+					category="marine_pool_coop" 
+					market="El Paso" 
+					label="El Paso, TX" 
+					lat="31.8397756" 
+					lon="-106.6880841" 
+					/>
+
+					<marker 
+					popup="BNSF - Alliance / 1111 Intermodal Pkwy / Haslet, TX 76052" 
+					id="137" 
+					category="marine_pool_coop" 
+					market="Dallas" 
+					label="Haslet, TX" 
+					lat="32.9794512" 
+					lon="-97.3273795" 
+					/>
+
+					<marker 
+					popup="BNSF - Pearland / 214 Brisbane Rd. / Houston, TX 77061" 
+					id="138" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.6395376" 
+					lon="-95.290796" 
+					/>
+
+					<marker 
+					popup="UPRR Englewood / 5500 Wallisville Road / Houston, TX 77020" 
+					id="139" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.7872864" 
+					lon="-95.3146905" 
+					/>
+
+					<marker 
+					popup="UPRR Settegast / 6800 Kirkpatrick Blvd. / Houston, TX 77028" 
+					id="140" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.826276" 
+					lon="-95.290365" 
+					/>
+
+					<marker 
+					popup="Integrated Marine Service / 500 East Barbours Cut Blvd / La Porte, TX 77571" 
+					id="141" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="La Porte, TX" 
+					lat="29.6734254" 
+					lon="-95.0149068" 
+					/>
+
+					<marker 
+					popup="Port of Houston - Barbours Cut / 1515 East Barbours Cut Blvd / La Porte, TX 77571" 
+					id="142" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="La Porte, TX" 
+					lat="29.6819781" 
+					lon="-94.9935502" 
+					/>
+
+					<marker 
+					popup="UPRR Laredo / I-35 North, Mile Marker #12 / Laredo, TX 78041" 
+					id="143" 
+					category="marine_pool_coop" 
+					market="Laredo" 
+					label="Laredo, TX" 
+					lat="27.5676627" 
+					lon="-99.4450439" 
+					/>
+
+					<marker 
+					popup="UPRR Mesquite / 4100 Forney / Mesquite, TX 75149" 
+					id="144" 
+					category="marine_pool_coop" 
+					market="Dallas" 
+					label="Mesquite, TX" 
+					lat="32.7851971" 
+					lon="-96.6564811" 
+					/>
+
+					<marker 
+					popup="CSX - Mobile / 2000 Industrial Canal Road East / Mobile, AL 36602" 
+					id="145" 
+					category="marine_pool_coop" 
+					market="Mobile" 
+					label="Mobile, AL" 
+					lat="30.7106885" 
+					lon="-88.0473287" 
+					/>
+
+					<marker 
+					popup="CSX NOLA / 7801 Almonaster Avenue / New Orleans, LA 70126" 
+					id="146" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="30.008572" 
+					lon="-90.001049" 
+					/>
+
+					<marker 
+					popup="New Orleans Terminasl / 50 Napoleon Avenue / New Orleans, LA 70115" 
+					id="147" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="29.9132822" 
+					lon="-90.1006495" 
+					/>
+
+					<marker 
+					popup="NS - New Orleans / 2900 Florida Avenue / New Orleans, LA 70117" 
+					id="148" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="29.984833" 
+					lon="-90.041727" 
+					/>
+
+					<marker 
+					popup="Ports America / 49 Nashville Avenue / New Orleans, LA 70115" 
+					id="149" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="29.9154958" 
+					lon="-90.1205088" 
+					/>
+
+					<marker 
+					popup="Port of Houston - Bayport / 12855 Port Road / Seabrook, TX 77586" 
+					id="150" 
+					category="marine_pool_coop" 
+					market="Houston" 
+					label="Seabrook, TX" 
+					lat="29.5632331" 
+					lon="-95.0257814" 
+					/>
+
+					<marker 
+					popup="UPRR San Antonio / 13001 I-35 South / Von Ormy, TX 78202" 
+					id="151" 
+					category="marine_pool_coop" 
+					market="San Antonio" 
+					label="Von Ormy, TX" 
+					lat="29.319684" 
+					lon="-98.614757" 
+					/>
+
+					<marker 
+					popup="BNSF NOLA / 539 Bridge City Avenue / Westego, LA 70094" 
+					id="152" 
+					category="marine_pool_coop" 
+					market="New Orleans" 
+					label="Westego, LA" 
+					lat="29.9323278" 
+					lon="-90.1664605" 
+					/>
+
+					<marker 
+					popup="UPRR Dallas (DIT) / 3701 South I-45 / Wilmer, TX 75172" 
+					id="153" 
+					category="marine_pool_coop" 
+					market="Dallas" 
+					label="Wilmer, TX" 
+					lat="32.5975086" 
+					lon="-96.6836756" 
+					/>
+
+					<marker 
+					popup="Chickasaw Container / 49 N Conception Street Rd / Mobile, AL 36610" 
+					id="154" 
+					category="marine_pool_coop" 
+					market="Mobile" 
+					label="Mobile, AL" 
+					lat="30.7231373" 
+					lon="-88.0741164" 
+					/>
+
+					<marker 
+					popup="ITS / 1281 Pier J Way / Long Beach, CA 90802" 
+					id="155" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Long Beach, CA" 
+					lat="33.7452122" 
+					lon="-118.1920002" 
+					/>
+
+					<marker 
+					popup="TTI - Pier T / 301 Hanjin Rd / Long Beach, CA 90802" 
+					id="156" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Long Beach, CA" 
+					lat="33.760471" 
+					lon="-118.228208" 
+					/>
+
+					<marker 
+					popup="Seaside Terminal / STS / 425 So. Palos Verdes St. / San Pedro, CA 90731" 
+					id="157" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="San Pedro, CA" 
+					lat="33.7404816" 
+					lon="-118.2816326" 
+					/>
+
+					<marker 
+					popup="WBCT / 2050 John S. Gibson Blvd. / San Pedro, CA 90731" 
+					id="158" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="San Pedro, CA" 
+					lat="33.7672989" 
+					lon="-118.28135" 
+					/>
+
+					<marker 
+					popup="TraPac Terminal  / 920 W. Harry Bridges Blvd. / Wilmington, CA 94607" 
+					id="159" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Wilmington, CA" 
+					lat="33.770015" 
+					lon="-118.278701" 
+					/>
+
+					<marker 
+					popup="HIIC - Huntsville / 2850 Wall Triana Highway / Huntsville, AL 35824" 
+					id="160" 
+					category="marine_pool_coop" 
+					market="Huntsville" 
+					label="Huntsville, AL" 
+					lat="34.6464008" 
+					lon="-86.7592375" 
+					/>
+
+					<marker 
+					popup="UP Marion / 5500 Kuhn Road / Marion, AR 72364" 
+					id="161" 
+					category="marine_pool_coop" 
+					market="Memphis" 
+					label="Marion, AR" 
+					lat="35.1925006" 
+					lon="-90.262287" 
+					/>
+
+					<marker 
+					popup="BNSF / 5280 Shelby Dr. / Memphis, TN 38118" 
+					id="162" 
+					category="marine_pool_coop" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.0204889" 
+					lon="-89.8876879" 
+					/>
+
+					<marker 
+					popup="CNRR - Memphis  / 3588 Paul Lowry Road / Memphis, TN 38109" 
+					id="163" 
+					category="marine_pool_coop" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.0673973" 
+					lon="-90.1504223" 
+					/>
+
+					<marker 
+					popup="CSX - Memphis / 3588 Paul Lowry Road / Memphis, TN 38109" 
+					id="164" 
+					category="marine_pool_coop" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.0673973" 
+					lon="-90.1504223" 
+					/>
+
+					<marker 
+					popup="CSX - Nashville / 3086 Sidco Drive / Nashville, TN 37204" 
+					id="165" 
+					category="marine_pool_coop" 
+					market="Nashville" 
+					label="Nashville, TN" 
+					lat="36.0961085" 
+					lon="-86.7569218" 
+					/>
+
+					<marker 
+					popup="UP - DUPO / Highway 3 &amp; State Street / Dupo, IL 62239" 
+					id="166" 
+					category="marine_pool_coop" 
+					market="St. Louis" 
+					label="Dupo, IL" 
+					lat="38.5124226" 
+					lon="-90.2092468" 
+					/>
+
+					<marker 
+					popup="BNSF Argentine / 720 S 38th St / Kansas City, MO 66106" 
+					id="167" 
+					category="marine_pool_coop" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="39.0863516" 
+					lon="-94.6726336" 
+					/>
+
+					<marker 
+					popup="KCS - KC / 3301 East 147th Street / Kansas City, MO 64147" 
+					id="168" 
+					category="marine_pool_coop" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="38.86014" 
+					lon="-94.5738624" 
+					/>
+
+					<marker 
+					popup="CSX - KC / 3301 East 147th Street / Kansas City, MO 64147" 
+					id="169" 
+					category="marine_pool_coop" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="38.86014" 
+					lon="-94.5738624" 
+					/>
+
+					<marker 
+					popup="UP - NEFF / 4801 Gardener Ave / Kansas City, MO 64120" 
+					id="170" 
+					category="marine_pool_coop" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="39.125673" 
+					lon="-94.523848" 
+					/>
+
+					<marker 
+					popup="BNSF / 3500 Wellington Ct / St. Louis, MO 63139" 
+					id="171" 
+					category="marine_pool_coop" 
+					market="St. Louis" 
+					label="St. Louis, MO" 
+					lat="38.599526" 
+					lon="-90.3152794" 
+					/>
+
+					<marker 
+					popup="NS - Inman / 1600 Marietta Road NW, Gate 6 / Atlanta, GA 30318" 
+					id="172" 
+					category="marine_pool_coop" 
+					market="Atlanta" 
+					label="Atlanta, GA" 
+					lat="33.7728676" 
+					lon="-84.4251233" 
+					/>
+
+					<marker 
+					popup="CSX - Atlanta (Hulsey) / 173 Boulevard S.E. / Atlanta, GA 30312" 
+					id="173" 
+					category="marine_pool_coop" 
+					market="Atlanta" 
+					label="Atlanta, GA" 
+					lat="33.7493114" 
+					lon="-84.3699475" 
+					/>
+
+					<marker 
+					popup="NS - Austell / 6000 Dr. Luke Glenn Garrett, Jr. Memorial Highway / Austell, GA 30106" 
+					id="174" 
+					category="marine_pool_coop" 
+					market="Atlanta" 
+					label="Austell, GA" 
+					lat="33.8260603" 
+					lon="-84.6459428" 
+					/>
+
+					<marker 
+					popup="BNSF Birmingham / 401 Finley Blvd. W / Birmingham, AL 35204" 
+					id="175" 
+					category="marine_pool_coop" 
+					market="Birmingham" 
+					label="Birmingham, AL" 
+					lat="33.53096" 
+					lon="-86.843741" 
+					/>
+
+					<marker 
+					popup="CSX - Charleston  / 4201 Meeting Street Road / Charleston, SC 29405" 
+					id="176" 
+					category="marine_pool_coop" 
+					market="Charleston" 
+					label="Charleston, SC" 
+					lat="32.8693742" 
+					lon="-79.9951718" 
+					/>
+
+					<marker 
+					popup="NS - Charlotte  / 1803 N. Brevard Street / Charlotte, NC 28206" 
+					id="177" 
+					category="marine_pool_coop" 
+					market="Charlotte " 
+					label="Charlotte, NC" 
+					lat="35.240728" 
+					lon="-80.818578" 
+					/>
+
+					<marker 
+					popup="CSX - Charlotte  / 5430 Hovis Road / Charlotte, NC 28206" 
+					id="178" 
+					category="marine_pool_coop" 
+					market="Charlotte " 
+					label="Charlotte, NC" 
+					lat="35.271795" 
+					lon="-80.893658" 
+					/>
+
+					<marker 
+					popup="CSX - Atlanta (Fairburn) / 6700 McLarin Road / Fairburn, GA 30213" 
+					id="179" 
+					category="marine_pool_coop" 
+					market="Atlanta" 
+					label="Fairburn, GA" 
+					lat="33.5491465" 
+					lon="-84.6004193" 
+					/>
+
+					<marker 
+					popup="GPA Terminal  / 2 Main Street / Garden City, GA 31408" 
+					id="180" 
+					category="marine_pool_coop" 
+					market="Savannah" 
+					label="Garden City, GA" 
+					lat="32.1237161" 
+					lon="-81.1507957" 
+					/>
+
+					<marker 
+					popup="APMT - Jacksonville  / 5800 William Mills St / Jacksonville, FL 32219" 
+					id="181" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.392715" 
+					lon="-81.537905" 
+					/>
+
+					<marker 
+					popup="FEC - Jacksonville / 6140 Philips Hwy / Jacksonville, FL 32216" 
+					id="182" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.2577194" 
+					lon="-81.6139505" 
+					/>
+
+					<marker 
+					popup="NS - Jacksonville  / 4267 1/2 North Edgewood Drive / Jacksonville, FL 32254" 
+					id="183" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.3708659" 
+					lon="-81.7335893" 
+					/>
+
+					<marker 
+					popup="Talleyrand Terminal / 3001 Talleyrand Ave / Jacksonville, FL 32206" 
+					id="184" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.355187" 
+					lon="-81.622782" 
+					/>
+
+					<marker 
+					popup="Trapac Terminal-Jacksonville  / 9834 New Berlin Rd / Jacksonville, FL 32226" 
+					id="185" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.4045449" 
+					lon="-81.5655008" 
+					/>
+
+					<marker 
+					popup="CSX - Jacksonville  / 5902 Sportsman Club Road / Jacksonville, FL 32219" 
+					id="186" 
+					category="marine_pool_coop" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.386771" 
+					lon="-81.768023" 
+					/>
+
+					<marker 
+					popup="NS - McCalla / 7100 Crescent Way / McCalla, AL 35111" 
+					id="187" 
+					category="marine_pool_coop" 
+					market="Birmingham" 
+					label="McCalla, AL" 
+					lat="33.2275126" 
+					lon="-87.123822" 
+					/>
+
+					<marker 
+					popup="Wando Welch  / 400 Long Point Rd. / Mt. Pleasant, SC 29464" 
+					id="188" 
+					category="marine_pool_coop" 
+					market="Charleston" 
+					label="Mt. Pleasant, SC" 
+					lat="32.8325249" 
+					lon="-79.8826374" 
+					/>
+
+					<marker 
+					popup="North Charleston Terminal  / 1000 Remount Rd / North Charleston, SC 29406" 
+					id="189" 
+					category="marine_pool_coop" 
+					market="Charleston" 
+					label="North Charleston, SC" 
+					lat="32.904959" 
+					lon="-79.961139" 
+					/>
+
+					<marker 
+					popup="NS - Charleston  / 4350 Goer Drive / North Charleston, SC 29406" 
+					id="190" 
+					category="marine_pool_coop" 
+					market="Charleston" 
+					label="North Charleston, SC" 
+					lat="32.8681073" 
+					lon="-80.0034929" 
+					/>
+
+					<marker 
+					popup="CSX - Savannah  / 3000 Tremont Road / Savannah, GA 31405" 
+					id="191" 
+					category="marine_pool_coop" 
+					market="Savannah" 
+					label="Savannah, GA" 
+					lat="32.067056" 
+					lon="-81.1402434" 
+					/>
+
+					<marker 
+					popup="GPA Ocean Terminal / 950 W. River St. / Savannah, GA 31401" 
+					id="192" 
+					category="marine_pool_coop" 
+					market="Savannah" 
+					label="Savannah, GA" 
+					lat="32.0872834" 
+					lon="-81.1037494" 
+					/>
+
+					<marker 
+					popup="NCSPA / 2202 Burnett Blvd / Wilmington, NC 28401" 
+					id="193" 
+					category="marine_pool_coop" 
+					market="Wilmington" 
+					label="Wilmington, NC" 
+					lat="34.1962731" 
+					lon="-77.9483305" 
+					/>
+
+					<marker 
+					popup="UPRR Ramp UPLA / 4341 E. Washington Blvd / Commerce, CA 90023" 
+					id="194" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Commerce, CA" 
+					lat="34.0078496" 
+					lon="-118.1820033" 
+					/>
+
+					<marker 
+					popup="SSA Marine Terminals Pier A / 700 Pier A Plaza / Long Beach, CA 90023" 
+					id="195" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Long Beach, CA" 
+					lat="33.7725463" 
+					lon="-118.238588" 
+					/>
+
+					<marker 
+					popup="UPRR Ramp ICTF / 2401 E. Sepulveda Blvd. / Long Beach, CA 90802" 
+					id="196" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Long Beach, CA" 
+					lat="33.8054121" 
+					lon="-118.2230472" 
+					/>
+
+					<marker 
+					popup="BNSF - Commerce / 6300 East Sheila Street / Los Angeles, CA 90040" 
+					id="197" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Los Angeles, CA" 
+					lat="33.9935662" 
+					lon="-118.1450833" 
+					/>
+
+					<marker 
+					popup="BNSF - Hobart / 4940 Sheila Street / Los Angeles, CA 90040" 
+					id="198" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Los Angeles, CA" 
+					lat="34.0018049" 
+					lon="-118.1707601" 
+					/>
+
+					<marker 
+					popup="UPRR Ramp LATC / 750 Lamar Street / Los Angeles, CA 90031" 
+					id="199" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Los Angeles, CA" 
+					lat="34.0640704" 
+					lon="-118.2235492" 
+					/>
+
+					<marker 
+					popup="SSA Marine Terminals Pier J / 1521 Pier J Avenue / Long Beach, CA 90813" 
+					id="200" 
+					category="marine_pool_coop" 
+					market="Los Angeles" 
+					label="Long Beach, CA" 
+					lat="33.7742759" 
+					lon="-118.2091302" 
+					/>
+
+					<marker 
+					popup="BNSF / 7600 Santa Fe Dr. / Hodgkins, IL 60525" 
+					id="201" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Hodgkins, IL" 
+					lat="41.750807" 
+					lon="-87.870251" 
+					/>
+
+					<marker 
+					popup="BNSF / 4814 Lamar Ave / Memphis, TN 38118" 
+					id="202" 
+					category="domestic_pool" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.026065" 
+					lon="-89.9025966" 
+					/>
+
+					<marker 
+					popup="BNSF / 1800 N Dickey / Spokane , WA 99211" 
+					id="203" 
+					category="domestic_pool" 
+					market="Spokane" 
+					label="Spokane , WA" 
+					lat="47.6742989" 
+					lon="-117.3219094" 
+					/>
+
+					<marker 
+					popup="BNSF / 3526 West 43rd St. / Chicago, IL 60632" 
+					id="204" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8155462" 
+					lon="-87.7126054" 
+					/>
+
+					<marker 
+					popup="BNSF / 3770 East Washington Blvd. / Los Angeles , CA 90023" 
+					id="205" 
+					category="domestic_pool" 
+					market="Los Angeles" 
+					label="Los Angeles , CA" 
+					lat="34.0128962" 
+					lon="-118.2007352" 
+					/>
+
+					<marker 
+					popup="BNSF / 12400 51st. Pl South / Seattle , WA 98178" 
+					id="206" 
+					category="domestic_pool" 
+					market="Seattle" 
+					label="Seattle , WA" 
+					lat="47.4926682" 
+					lon="-122.2706442" 
+					/>
+
+					<marker 
+					popup="BNSF / 5601 West 26th St. / Cicero, IL 60804" 
+					id="207" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Cicero, IL" 
+					lat="41.843345" 
+					lon="-87.764284" 
+					/>
+
+					<marker 
+					popup="BNSF / 720 S 38th St. / Kansas City, KS 66106" 
+					id="208" 
+					category="domestic_pool" 
+					market="Kansas City" 
+					label="Kansas City, KS" 
+					lat="39.0863516" 
+					lon="-94.6726336" 
+					/>
+
+					<marker 
+					popup="BNSF / 44 S Handord St. / Seattle, WA 98134" 
+					id="209" 
+					category="domestic_pool" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.5755916" 
+					lon="-122.3369709" 
+					/>
+
+					<marker 
+					popup="BNSF / 401 Finley Blvd West / Birmingham, AL 35204" 
+					id="210" 
+					category="domestic_pool" 
+					market="Birmingham" 
+					label="Birmingham, AL" 
+					lat="33.53096" 
+					lon="-86.843741" 
+					/>
+
+					<marker 
+					popup="BNSF / 214 Brisbane Rd. / Houston, TX 77061" 
+					id="211" 
+					category="domestic_pool" 
+					market="Houston" 
+					label="Houston, TX" 
+					lat="29.6395376" 
+					lon="-95.290796" 
+					/>
+
+					<marker 
+					popup="BNSF / 1535 W. 4th St. / San Bernardino, CA 92411" 
+					id="212" 
+					category="domestic_pool" 
+					market="San Bernardino" 
+					label="San Bernardino, CA" 
+					lat="34.1064427" 
+					lon="-117.3196955" 
+					/>
+
+					<marker 
+					popup="BNSF / 6700 Mclarin Road / Fairburn, GA 30213" 
+					id="213" 
+					category="domestic_pool" 
+					market="Atlanta" 
+					label="Fairburn, GA" 
+					lat="33.5491465" 
+					lon="-84.6004193" 
+					/>
+
+					<marker 
+					popup="BNSF / 2989 S Golden State Frontage Rd. / Fresno , CA 93725" 
+					id="214" 
+					category="domestic_pool" 
+					market="Fresno" 
+					label="Fresno , CA" 
+					lat="36.691131" 
+					lon="-119.7501321" 
+					/>
+
+					<marker 
+					popup="BNSF / 3930 NW Yeon  / Portland, OR 97210" 
+					id="215" 
+					category="domestic_pool" 
+					market="Portland" 
+					label="Portland, OR" 
+					lat="45.5497792" 
+					lon="-122.7224054" 
+					/>
+
+					<marker 
+					popup="BNSF / 6540 Austin Road / Stockton, CA 95215" 
+					id="216" 
+					category="domestic_pool" 
+					market="Oakland" 
+					label="Stockton, CA" 
+					lat="37.9064539" 
+					lon="-121.179326" 
+					/>
+
+					<marker 
+					popup="BNSF / 1111 Intermoda Pkwy / Haslet, TX 76052" 
+					id="217" 
+					category="domestic_pool" 
+					market="Dallas" 
+					label="Haslet, TX" 
+					lat="32.9794512" 
+					lon="-97.3273795" 
+					/>
+
+					<marker 
+					popup="BNSF / 805 S Santa Fe St. / El Paso, TX 79901" 
+					id="218" 
+					category="domestic_pool" 
+					market="El Paso" 
+					label="El Paso, TX" 
+					lat="31.7517279" 
+					lon="-106.488659" 
+					/>
+
+					<marker 
+					popup="BNSF / 5281 N. Tom Murrary Rd / Glendale, AZ 85301" 
+					id="219" 
+					category="domestic_pool" 
+					market="Phoenix" 
+					label="Glendale, AZ" 
+					lat="33.5148924" 
+					lon="-112.1605032" 
+					/>
+
+					<marker 
+					popup="BNSF / 1701 Pierce Butler Rt. / St.Paul, MN 55104" 
+					id="220" 
+					category="domestic_pool" 
+					market="St. Paul" 
+					label="St.Paul, MN" 
+					lat="44.9695497" 
+					lon="-93.1742954" 
+					/>
+
+					<marker 
+					popup="BNSF / 585 West 53rd Pl / Denver, CO 80216" 
+					id="221" 
+					category="domestic_pool" 
+					market="Denver" 
+					label="Denver, CO" 
+					lat="39.796755" 
+					lon="-104.9955406" 
+					/>
+
+					<marker 
+					popup="BNSF / 333 Maritime St. / Oakland, CA 94607" 
+					id="222" 
+					category="domestic_pool" 
+					market="Oakland" 
+					label="Oakland, CA" 
+					lat="37.8127944" 
+					lon="-122.3109318" 
+					/>
+
+					<marker 
+					popup="BNSF / 3500 Wellington Ct., Bldg 3 / St. Louis, MO 63139" 
+					id="223" 
+					category="domestic_pool" 
+					market="St. Louis" 
+					label="St. Louis, MO" 
+					lat="38.599526" 
+					lon="-90.3152794" 
+					/>
+
+					<marker 
+					popup="CNRR / 600 Fern St / Ferndale, MI 48220" 
+					id="224" 
+					category="domestic_pool" 
+					market="Detroit" 
+					label="Ferndale, MI" 
+					lat="42.4504355" 
+					lon="-83.1169142" 
+					/>
+
+					<marker 
+					popup="CNRR / 15840 West Ave  / Harvey, IL 60426" 
+					id="225" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Harvey, IL" 
+					lat="41.6019675" 
+					lon="-87.6450433" 
+					/>
+
+					<marker 
+					popup="CNRR / 2351 Hickory Ave / Harahan, LA 70123" 
+					id="226" 
+					category="domestic_pool" 
+					market="New Orleans" 
+					label="Harahan, LA" 
+					lat="29.9725056" 
+					lon="-90.2088047" 
+					/>
+
+					<marker 
+					popup="CNRR / 3588 Paul Lowry Rd. / Memphis, TN 38109" 
+					id="227" 
+					category="domestic_pool" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.0673973" 
+					lon="-90.1504223" 
+					/>
+
+					<marker 
+					popup="CNRR / 360 Industrial Park Rd / Richland, MS 39218" 
+					id="228" 
+					category="domestic_pool" 
+					market="Jackson" 
+					label="Richland, MS" 
+					lat="32.2545029" 
+					lon="-90.1521887" 
+					/>
+
+					<marker 
+					popup="CP/SOO / 225 South Canal St / Chicago, IL 60606" 
+					id="229" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8787342" 
+					lon="-87.6393969" 
+					/>
+
+					<marker 
+					popup="CSX / 8850 Atlantic Ave.  / Orlando, FL 32824" 
+					id="230" 
+					category="domestic_pool" 
+					market="Orlando" 
+					label="Orlando, FL" 
+					lat="28.439335" 
+					lon="-81.3594601" 
+					/>
+
+					<marker 
+					popup="CSX / 1901 North 62nd St.  / Tampa, FL 33619" 
+					id="231" 
+					category="domestic_pool" 
+					market="Tampa" 
+					label="Tampa, FL" 
+					lat="27.95903" 
+					lon="-82.388722" 
+					/>
+
+					<marker 
+					popup="CSX / 173 Boulevard SE  / Atlanta, GA 30312" 
+					id="232" 
+					category="domestic_pool" 
+					market="Atlanta" 
+					label="Atlanta, GA" 
+					lat="33.7493114" 
+					lon="-84.3699475" 
+					/>
+
+					<marker 
+					popup="CSX / 5430 Hovis Rd.  / Charlotte, NC 28208" 
+					id="233" 
+					category="domestic_pool" 
+					market="Charlotte" 
+					label="Charlotte, NC" 
+					lat="35.271795" 
+					lon="-80.893658" 
+					/>
+
+					<marker 
+					popup="CSX / 501 S. City Rd. 800  / East Avon, IN 46123" 
+					id="234" 
+					category="domestic_pool" 
+					market="Indianapolis" 
+					label="East Avon, IN" 
+					lat="39.755834" 
+					lon="-86.381078" 
+					/>
+
+					<marker 
+					popup="CSX / 6201 Tonnelle Ave. / North Bergen, NJ " 
+					id="235" 
+					category="domestic_pool" 
+					market="NY/NJ" 
+					label="North Bergen, NJ" 
+					lat="40.7955032" 
+					lon="-74.0259903" 
+					/>
+
+					<marker 
+					popup="CSX / CSX Acces Rd. E.  / Syracuse, NY 13057" 
+					id="236" 
+					category="domestic_pool" 
+					market="Syracuse" 
+					label="Syracuse, NY" 
+					lat="43.0653446" 
+					lon="-76.0785332" 
+					/>
+
+					<marker 
+					popup="CSX / 6700 McLarin Rd.     / Fairburn, GA 30213" 
+					id="237" 
+					category="domestic_pool" 
+					market="Atlanta" 
+					label="Fairburn, GA" 
+					lat="33.5491465" 
+					lon="-84.6004193" 
+					/>
+
+					<marker 
+					popup="CSX / 4201 Meeting St. Rd / Charleston, SC 29405" 
+					id="238" 
+					category="domestic_pool" 
+					market="Charleston" 
+					label="Charleston, SC" 
+					lat="32.8693742" 
+					lon="-79.9951718" 
+					/>
+
+					<marker 
+					popup="CSX / 2710 Dixie Flyer Rd / Evansville, IN 47712" 
+					id="239" 
+					category="domestic_pool" 
+					market="Evansville" 
+					label="Evansville, IN" 
+					lat="37.9637396" 
+					lon="-87.606965" 
+					/>
+
+					<marker 
+					popup="CSX / 7801 Almonaster Ave.  / New Orleans, LA 70126" 
+					id="240" 
+					category="domestic_pool" 
+					market="New Orleans" 
+					label="New Orleans, LA" 
+					lat="30.008572" 
+					lon="-90.001049" 
+					/>
+
+					<marker 
+					popup="CSX / 151 Day St.  / West Springfield, MA " 
+					id="241" 
+					category="domestic_pool" 
+					market="Springfield" 
+					label="West Springfield, MA" 
+					lat="42.0987148" 
+					lon="-72.6151735" 
+					/>
+
+					<marker 
+					popup="CSX / 2101 W. 59th St.  / Chicago, IL 60636" 
+					id="242" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7859693" 
+					lon="-87.6771022" 
+					/>
+
+					<marker 
+					popup="CSX / 700 Kriner Rd / Chambersburg, PA 17202" 
+					id="243" 
+					category="domestic_pool" 
+					market="Chambersburg" 
+					label="Chambersburg, PA" 
+					lat="39.9048335" 
+					lon="-77.6545538" 
+					/>
+
+					<marker 
+					popup="CSX / 3900 Rose Lake Rd.  / East St. Louis, IL 62201" 
+					id="244" 
+					category="domestic_pool" 
+					market="St. Louis" 
+					label="East St. Louis, IL" 
+					lat="38.6338426" 
+					lon="-89.5722931" 
+					/>
+
+					<marker 
+					popup="CSX / 3086 Sidco Dr.  / Nahsville, TN 37204" 
+					id="245" 
+					category="domestic_pool" 
+					market="Nahsville" 
+					label="Nahsville, TN" 
+					lat="36.0961085" 
+					lon="-86.7569218" 
+					/>
+
+					<marker 
+					popup="CSX / 700 Old Fish House Rd / South Kearney, NJ " 
+					id="246" 
+					category="domestic_pool" 
+					market="NY/NJ" 
+					label="South Kearney, NJ" 
+					lat="40.0583238" 
+					lon="-74.4056612" 
+					/>
+
+					<marker 
+					popup="CSX / 1252 William St. Rear  / Buffalo, NY 14206" 
+					id="247" 
+					category="domestic_pool" 
+					market="Buffalo" 
+					label="Buffalo, NY" 
+					lat="42.8820351" 
+					lon="-78.8099472" 
+					/>
+
+					<marker 
+					popup="CSX / 6750 Dix Ave.  / Detroit, MI 48209" 
+					id="248" 
+					category="domestic_pool" 
+					market="Detroit" 
+					label="Detroit, MI" 
+					lat="42.3160643" 
+					lon="-83.1174443" 
+					/>
+
+					<marker 
+					popup="CSX / Industrial Canal Rd. / Mobile, AL 36602" 
+					id="249" 
+					category="domestic_pool" 
+					market="Mobile" 
+					label="Mobile, AL" 
+					lat="30.7106885" 
+					lon="-88.0473287" 
+					/>
+
+					<marker 
+					popup="CSX / 3000 Tremont Ave. / Savannah, GA 31405" 
+					id="250" 
+					category="domestic_pool" 
+					market="Savannah" 
+					label="Savannah, GA" 
+					lat="32.067056" 
+					lon="-81.1402434" 
+					/>
+
+					<marker 
+					popup="CSX / 100 Cambridge St.  / Allston, MA " 
+					id="251" 
+					category="domestic_pool" 
+					market="Boston" 
+					label="Allston, MA" 
+					lat="42.3601491" 
+					lon="-71.1208648" 
+					/>
+
+					<marker 
+					popup="CSX / 2351 W. Belt Dr. / Columbus, OH 43228" 
+					id="252" 
+					category="domestic_pool" 
+					market="Columbus" 
+					label="Columbus, OH" 
+					lat="39.314528" 
+					lon="-84.375855" 
+					/>
+
+					<marker 
+					popup="CSX / 3588 Paul Lowry Rd. / Memphis, TN 38109" 
+					id="253" 
+					category="domestic_pool" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.0673973" 
+					lon="-90.1504223" 
+					/>
+
+					<marker 
+					popup="CSX / 1 Harper Ave,  / Portsmouth, VA 23707" 
+					id="254" 
+					category="domestic_pool" 
+					market="Portsmouth" 
+					label="Portsmouth, VA" 
+					lat="36.8469663" 
+					lon="-76.3288734" 
+					/>
+
+					<marker 
+					popup="CSX / 7000 W. 71st. St.  / Bedford Park, IL 60638" 
+					id="255" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Bedford Park, IL" 
+					lat="41.7629174" 
+					lon="-87.795606" 
+					/>
+
+					<marker 
+					popup="CSX / 601 E. 152nd St. / Cleveland, OH 44110" 
+					id="256" 
+					category="domestic_pool" 
+					market="Cleveland" 
+					label="Cleveland, OH" 
+					lat="41.5638277" 
+					lon="-81.5755362" 
+					/>
+
+					<marker 
+					popup="CSX / 2200 83rd. St  / North Bergen, NJ " 
+					id="257" 
+					category="domestic_pool" 
+					market="" 
+					label="North Bergen, NJ" 
+					lat="40.8107104" 
+					lon="-74.0189008" 
+					/>
+
+					<marker 
+					popup="CSX / 3400 S. Christopher Columbus Blvd.  / Philadelphia, PA 19148" 
+					id="258" 
+					category="domestic_pool" 
+					market="Philadelphia" 
+					label="Philadelphia, PA" 
+					lat="39.9550562" 
+					lon="-75.1392012" 
+					/>
+
+					<marker 
+					popup="CSX / 271 Franklin St.  / Worcester, MA " 
+					id="259" 
+					category="domestic_pool" 
+					market="Worcester" 
+					label="Worcester, MA" 
+					lat="42.2618395" 
+					lon="-71.7876727" 
+					/>
+
+					<marker 
+					popup="CSX / 4801 Keither Ave.  / Baltimore, MD 21224" 
+					id="260" 
+					category="domestic_pool" 
+					market="Baltimore" 
+					label="Baltimore, MD" 
+					lat="39.2656966" 
+					lon="-76.5534929" 
+					/>
+
+					<marker 
+					popup="CSX / 2149 Western Ave.  / Cincinnati, OH 45214" 
+					id="261" 
+					category="domestic_pool" 
+					market="Cincinnati" 
+					label="Cincinnati, OH" 
+					lat="39.1213933" 
+					lon="-84.5385943" 
+					/>
+
+					<marker 
+					popup="CSX / 5902 Sportsman Club Rd. / Jacksonville, FL 32219" 
+					id="262" 
+					category="domestic_pool" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.386771" 
+					lon="-81.768023" 
+					/>
+
+					<marker 
+					popup="FEC / 7300 NW 69th Ave Rd. / Miami Springs, FL 33166" 
+					id="263" 
+					category="domestic_pool" 
+					market="Miami" 
+					label="Miami Springs, FL" 
+					lat="25.8223198" 
+					lon="-80.289495" 
+					/>
+
+					<marker 
+					popup="FEC / 6140 Phillips Hwy / Jacksonville, FL 32216" 
+					id="264" 
+					category="domestic_pool" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.2577194" 
+					lon="-81.6139505" 
+					/>
+
+					<marker 
+					popup="FEC / 353 Florida Ave / Ft. Pierce, FL 34950" 
+					id="265" 
+					category="domestic_pool" 
+					market="Ft. Pierce" 
+					label="Ft. Pierce, FL" 
+					lat="27.437863" 
+					lon="-80.321817" 
+					/>
+
+					<marker 
+					popup="FEC / 3125 South Andrews Avenue / Ft. Lauderdale , FL 33316" 
+					id="266" 
+					category="domestic_pool" 
+					market="Ft. Lauderdale" 
+					label="Ft. Lauderdale , FL" 
+					lat="26.086241" 
+					lon="-80.139832" 
+					/>
+
+					<marker 
+					popup="KCS / 360 Industrial Rd / Richland, MS 39218" 
+					id="267" 
+					category="domestic_pool" 
+					market="Jackson" 
+					label="Richland, MS" 
+					lat="32.2109459" 
+					lon="-90.155194" 
+					/>
+
+					<marker 
+					popup="KCS / 11931 Shiloh Rd / Dallas, TX 75228" 
+					id="268" 
+					category="domestic_pool" 
+					market="Dallas" 
+					label="Dallas, TX" 
+					lat="32.8585414" 
+					lon="-96.6658697" 
+					/>
+
+					<marker 
+					popup="KCS / 604 Serrano Road / Loredo, TX 78046" 
+					id="269" 
+					category="domestic_pool" 
+					market="Laredo" 
+					label="Loredo, TX" 
+					lat="27.3781176" 
+					lon="-99.3229213" 
+					/>
+
+					<marker 
+					popup="KCS / 3301 E 147th St / Kansas City, MO 64147" 
+					id="270" 
+					category="domestic_pool" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="38.86014" 
+					lon="-94.5738624" 
+					/>
+
+					<marker 
+					popup="NS / 1105 Merritt Dr / Greensboro, NC 27407" 
+					id="271" 
+					category="domestic_pool" 
+					market="Greensboro" 
+					label="Greensboro, NC" 
+					lat="36.0561898" 
+					lon="-79.8549642" 
+					/>
+
+					<marker 
+					popup="NS / 2101 Hill Ave / Toledo, OH 43607" 
+					id="272" 
+					category="domestic_pool" 
+					market="Toledo" 
+					label="Toledo, OH" 
+					lat="41.637885" 
+					lon="-83.5932413" 
+					/>
+
+					<marker 
+					popup="NS / 7526 South Western Ave / Chicago, IL 60629" 
+					id="273" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7567139" 
+					lon="-87.6831135" 
+					/>
+
+					<marker 
+					popup="NS / 6601 Tico Rd / Titusville, FL 32780" 
+					id="274" 
+					category="domestic_pool" 
+					market="Titusville" 
+					label="Titusville, FL" 
+					lat="28.524327" 
+					lon="-80.792995" 
+					/>
+
+					<marker 
+					popup="NS / 2040 East 106th St / Chicago, IL 60617" 
+					id="275" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7035178" 
+					lon="-87.5712812" 
+					/>
+
+					<marker 
+					popup="NS / 7021 Hall St / St. Louis, MO 63147" 
+					id="276" 
+					category="domestic_pool" 
+					market="St. Louis" 
+					label="St. Louis, MO" 
+					lat="38.699159" 
+					lon="-90.219831" 
+					/>
+
+					<marker 
+					popup="NS / 6300 South Indiana Ave / Chicago, IL 60637" 
+					id="277" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.7801224" 
+					lon="-87.6205281" 
+					/>
+
+					<marker 
+					popup="NS / 1 Charlie Gay Drive / Savannah, GA 31408" 
+					id="278" 
+					category="domestic_pool" 
+					market="Savannah" 
+					label="Savannah, GA" 
+					lat="32.1007102" 
+					lon="-81.1699209" 
+					/>
+
+					<marker 
+					popup="NS / 361 West 47th St / Chicago, IL 60609" 
+					id="279" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8088824" 
+					lon="-87.6362481" 
+					/>
+
+					<marker 
+					popup="NS / 2648 Spottswood Ave / Memphis, TN 38114" 
+					id="280" 
+					category="domestic_pool" 
+					market="Memphis" 
+					label="Memphis, TN" 
+					lat="35.1141821" 
+					lon="-89.9738211" 
+					/>
+
+					<marker 
+					popup="NS / 4800 North Kimball / Kansas City, MO 64161" 
+					id="281" 
+					category="domestic_pool" 
+					market="Kansas City" 
+					label="Kansas City, MO" 
+					lat="39.1567047" 
+					lon="-94.4389493" 
+					/>
+
+					<marker 
+					popup="NS / 4267 1/2 North Edgwood Dr / Jacksonville, FL 32254" 
+					id="282" 
+					category="domestic_pool" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.3708659" 
+					lon="-81.7335893" 
+					/>
+
+					<marker 
+					popup="UP / 147th &amp; Indiana / Dolton, IL 60419" 
+					id="283" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Dolton, IL" 
+					lat="41.6281194" 
+					lon="-87.6171836" 
+					/>
+
+					<marker 
+					popup="UP / 2701 Intermodal Dr / Rochelle, IL 61068" 
+					id="284" 
+					category="domestic_pool" 
+					market="Rochelle" 
+					label="Rochelle, IL" 
+					lat="41.9031906" 
+					lon="-89.0870188" 
+					/>
+
+					<marker 
+					popup="UP / 301 W. Lake St / Northlake, IL 60164" 
+					id="285" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Northlake, IL" 
+					lat="41.8998365" 
+					lon="-87.9145597" 
+					/>
+
+					<marker 
+					popup="UP / 1425 South Western Ave. / Chicago, IL 60608" 
+					id="286" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8621204" 
+					lon="-87.6853786" 
+					/>
+
+					<marker 
+					popup="UP / Highway 3 &amp; State Street / Dupo, IL 62239" 
+					id="287" 
+					category="domestic_pool" 
+					market="St. Louis" 
+					label="Dupo, IL" 
+					lat="38.5124226" 
+					lon="-90.2092468" 
+					/>
+
+					<marker 
+					popup="UP / 436 West 25th Place / Chicago, IL 60616" 
+					id="288" 
+					category="domestic_pool" 
+					market="Chicago" 
+					label="Chicago, IL" 
+					lat="41.8463948" 
+					lon="-87.6353665" 
+					/>
+
+					<marker 
+					popup="TRI-MODAL SERVICE INC. -  / 2001 WALCUT ROAD / COLUMBUS, OH 43228" 
+					id="289" 
+					category="depots_term_lease" 
+					market="Columbus" 
+					label="COLUMBUS, OH" 
+					lat="39.990961" 
+					lon="-83.138946" 
+					/>
+
+					<marker 
+					popup="TRAC - CHICAGO SERVICE CENTER  -  / 1800 W. 43RD STREET / CHICAGO, IL 60609" 
+					id="290" 
+					category="depots_term_lease" 
+					market="Chicago" 
+					label="CHICAGO, IL" 
+					lat="41.817299" 
+					lon="-87.670642" 
+					/>
+
+					<marker 
+					popup="TRAC LOS ANGELES SERVICE CENTER -  / 370-400 EAST REDONDO BEACH BLVD / GARDENA, CA 90248" 
+					id="291" 
+					category="depots_term_lease" 
+					market="Los Angeles" 
+					label="GARDENA, CA" 
+					lat="33.8926612" 
+					lon="-118.26865" 
+					/>
+
+					<marker 
+					popup="SOUTHERN INTERMODAL, INC. (Memphis) -  / 5189 HWY. 77 N. / MARION, AR 72364" 
+					id="292" 
+					category="depots_term_lease" 
+					market="Memphis" 
+					label="MARION, AR" 
+					lat="35.2496704" 
+					lon="-90.2125478" 
+					/>
+
+					<marker 
+					popup="PICORP, INC - BALTIMORE, MD USA / 6508 EAST LOMBARD STREET / BALTIMORE, MD 21224" 
+					id="293" 
+					category="depots_term_lease" 
+					market="Baltimore" 
+					label="BALTIMORE, MD" 
+					lat="39.2962331" 
+					lon="-76.5333332" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - CHARLESTON, SC USA / 2534 SPRUILL AVENUE / CHARLESTON, SC 29405" 
+					id="294" 
+					category="depots_term_lease" 
+					market="Charleston" 
+					label="CHARLESTON, SC" 
+					lat="32.8451182" 
+					lon="-79.9582776" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - Chicago, IL USA / 6401 W. 46TH STREET / FORESTVIEW, IL 60638" 
+					id="295" 
+					category="depots_term_lease" 
+					market="Chicago" 
+					label="FORESTVIEW, IL" 
+					lat="41.8093021" 
+					lon="-87.7529451" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - HOUSTON, TX USA / 500 MAYO SHELL ROAD / GALENA PARK, TX 77547" 
+					id="296" 
+					category="depots_term_lease" 
+					market="Houston" 
+					label="GALENA PARK, TX" 
+					lat="29.728418" 
+					lon="-95.2447788" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - JACKSONVILLE, FL USA / 8831 Moncrief-Dinsmore Rd. / Jacksonville, FL 32219" 
+					id="297" 
+					category="depots_term_lease" 
+					market="Jacksonville" 
+					label="Jacksonville, FL" 
+					lat="30.411612" 
+					lon="-81.7531319" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - LONG BEACH, CA USA / 1711 Alameda Street / Wilmington, CA 90744" 
+					id="298" 
+					category="depots_term_lease" 
+					market="Los Angeles" 
+					label="Wilmington, CA" 
+					lat="33.799161" 
+					lon="-118.2454401" 
+					/>
+
+					<marker 
+					popup="MIAMI CONTAINER REPAIR CO - Miami, FL USA / 9801 N.W. 106th Street / MEDLEY, FL 33178" 
+					id="299" 
+					category="depots_term_lease" 
+					market="Miami" 
+					label="MEDLEY, FL" 
+					lat="25.870838" 
+					lon="-80.355957" 
+					/>
+
+					<marker 
+					popup="INTEGRATED IND. - New Jersey, NJ USA / ONE PENNVAL ROAD / WOODBRIDGE, NJ 7095" 
+					id="301" 
+					category="depots_term_lease" 
+					market="NY/NJ" 
+					label="WOODBRIDGE, NJ" 
+					lat="40.5528265" 
+					lon="-74.2698248" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - NEW ORLEANS, LA USA / 10090 Almonaster / NEW ORLEANS, LA 70127" 
+					id="302" 
+					category="depots_term_lease" 
+					market="New Orleans" 
+					label="NEW ORLEANS, LA" 
+					lat="30.0105917" 
+					lon="-89.9586304" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - Oakland, CA USA / 555A MARITIME ST. / OAKLAND, CA 94607" 
+					id="303" 
+					category="depots_term_lease" 
+					market="Oakland" 
+					label="OAKLAND, CA" 
+					lat="37.8047118" 
+					lon="-122.3124958" 
+					/>
+
+					<marker 
+					popup="FASTLANE TRANSPORTATION - OAKLAND, CA USA / 850 92ND STREET / OAKLAND, CA 94607" 
+					id="304" 
+					category="depots_term_lease" 
+					market="Oakland" 
+					label="OAKLAND, CA" 
+					lat="37.7435825" 
+					lon="-122.1826616" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - Savannah, GA USA / 321 GRANGE ROAD / PORT WENTWORTH, GA 31407" 
+					id="305" 
+					category="depots_term_lease" 
+					market="Savannah" 
+					label="PORT WENTWORTH, GA" 
+					lat="32.135528" 
+					lon="-81.163008" 
+					/>
+
+					<marker 
+					popup="C&amp;C MAINTENANCE -SAVANNAH - SAVANNAH, GA USA / 487 BOURNE AVENUE / GARDEN CITY, GA 31418" 
+					id="306" 
+					category="depots_term_lease" 
+					market="Savannah" 
+					label="GARDEN CITY, GA" 
+					lat="32.1266955" 
+					lon="-81.1711919" 
+					/>
+
+					<marker 
+					popup="CONGLOBAL  IND. - SEATTLE, WA USA / One S. Idaho Street / Seattle, WA 98134" 
+					id="307" 
+					category="depots_term_lease" 
+					market="Seattle" 
+					label="Seattle, WA" 
+					lat="47.564581" 
+					lon="-122.3446851" 
+					/>
+</jqm_markers>

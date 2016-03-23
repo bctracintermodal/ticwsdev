@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jqm_markers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_markers.xsd">
+<marker id="Atlanta" category="marine_pool_neutral" label="Atlanta, GA" lat="33.7493114" lon="-84.3699475"/>
+<marker id="Avon " category="marine_pool_neutral" label="Avon , IN" lat="39.755834" lon="-86.381078"/>
+<marker id="Avondale" category="marine_pool_neutral" label="Avondale, LA" lat="29.9196299" lon="-90.207688"/>
+<marker id="Baltimore" category="marine_pool_neutral" label="Baltimore, MD" lat="39.26547065" lon="-76.545521475"/>
+<marker id="Bedford Park" category="marine_pool_neutral" label="Bedford Park, IL" lat="41.7629174" lon="-87.795606"/>
+<marker id="Brooklyn" category="marine_pool_neutral" label="Brooklyn, NY" lat="40.6786907" lon="-74.0036426"/>
+<marker id="Buffalo" category="marine_pool_coop" label="Buffalo, NY" lat="42.8864468" lon="-78.8783689"/>
+<marker id="Channahon" category="domestic_pool" label="Channahon, IL" lat="41.461265" lon="-88.178898"/>
+<marker id="Charleston" category="marine_pool_coop" label="Charleston, SC" lat="32.8451182" lon="-79.9582776"/>
+<marker id="Charlotte" category="marine_pool_neutral" label="Charlotte, NC" lat="35.271795" lon="-80.893658"/>
+<marker id="Chicago" category="marine_pool_neutral" label="Chicago, IL" lat="41.7859693" lon="-87.6771022"/>
+<marker id="Chippewa" category="depots_term_lease" label="Chippewa, WI" lat="44.927225" lon="-91.4104822"/>
+<marker id="Cincinnati" category="marine_pool_neutral" label="Cincinnati, OH" lat="39.1848048" lon="-84.5015886"/>
+<marker id="Cleveland" category="marine_pool_neutral" label="Cleveland, OH" lat="41.536527299999996" lon="-81.61052196666667"/>
+<marker id="Columbus" category="marine_pool_neutral" label="Columbus, OH" lat="39.6527445" lon="-83.7574005"/>
+<marker id="Council Bluff" category="depots_term_lease" label="Council Bluff, IA" lat="41.8780025" lon="-93.097702"/>
+<marker id="Dallas" category="marine_pool_private" label="Dallas, TX" lat="32.791324849999995" lon="-96.7156088"/>
+<marker id="Detroit" category="marine_pool_neutral" label="Detroit, MI" lat="42.31986365" lon="-83.11302665"/>
+<marker id="Dupo" category="depots_term_lease" label="Dupo, IL" lat="38.5124226" lon="-90.2092468"/>
+<marker id="El Paso" category="marine_pool_neutral" label="El Paso, TX" lat="31.76718235" lon="-106.41079195"/>
+<marker id="Elizabeth" category="marine_pool_neutral" label="Elizabeth, NJ" lat="40.6727415" lon="-74.1580674"/>
+<marker id="Elizabeth" category="marine_pool_coop" label="Elizabeth, NJ" lat="40.6741555" lon="-74.1643196"/>
+<marker id="Fairburn" category="marine_pool_coop" label="Fairburn, GA" lat="33.5491465" lon="-84.6004193"/>
+<marker id="Ferndale" category="marine_pool_neutral" label="Ferndale, MI" lat="42.4504355" lon="-83.1169142"/>
+<marker id="Forest View" category="domestic_pool" label="Forest View, IL" lat="41.8103673" lon="-87.7862953"/>
+<marker id="Garden City" category="marine_pool_private" label="Garden City, GA" lat="32.1266955" lon="-81.1711919"/>
+<marker id="Harvey" category="marine_pool_neutral" label="Harvey, IL" lat="41.5846171" lon="-87.6484155"/>
+<marker id="Haslet" category="marine_pool_neutral" label="Haslet, TX" lat="32.9901076" lon="-97.349706"/>
+<marker id="Houston" category="marine_pool_neutral" label="Houston, TX" lat="29.761644500000003" lon="-95.287370875"/>
+<marker id="Indianapolis" category="marine_pool_neutral" label="Indianapolis, IN" lat="39.806282" lon="-86.033209"/>
+<marker id="Jacksonville" category="marine_pool_neutral" label="Jacksonville, FL" lat="30.386771" lon="-81.768023"/>
+<marker id="Jersey City" category="marine_pool_neutral" label="Jersey City, NJ" lat="40.7214273" lon="-74.07327004999999"/>
+<marker id="Joliet" category="marine_pool_neutral" label="Joliet, IL" lat="41.5390222" lon="-88.0547253"/>
+<marker id="Kansas City" category="depots_term_lease" label="Kansas City, MO" lat="38.992906500000004" lon="-94.54885519999999"/>
+<marker id="La Porte" category="marine_pool_neutral" label="La Porte, TX" lat="29.6777417" lon="-95.0042034"/>
+<marker id="LaPorte" category="domestic_pool" label="LaPorte, TX" lat="29.6433525" lon="-95.0188656"/>
+<marker id="Los Angeles" category="domestic_pool" label="Los Angeles, CA" lat="33.845911099999995" lon="-118.25704504999999"/>
+<marker id="Louisville" category="marine_pool_neutral" label="Louisville, KY" lat="38.181293" lon="-85.657353"/>
+<marker id="Marysville" category="depots_term_lease" label="Marysville, OH" lat="40.2911995" lon="-83.5046089"/>
+<marker id="Memphis" category="domestic_pool" label="Memphis, TN" lat="35.100357" lon="-90.061676"/>
+<marker id="Mobile" category="marine_pool_neutral" label="Mobile, AL" lat="30.69218335" lon="-88.04669615"/>
+<marker id="Nashville" category="marine_pool_neutral" label="Nashville, TN" lat="36.0962536" lon="-86.7569048"/>
+<marker id="New Orleans" category="marine_pool_neutral" label="New Orleans, LA" lat="30.009626" lon="-89.9772949"/>
+<marker id="Newark" category="marine_pool_neutral" label="Newark, NJ" lat="40.7128631" lon="-74.140081"/>
+<marker id="North Bergen" category="marine_pool_neutral" label="North Bergen, NJ" lat="40.8107104" lon="-74.0189008"/>
+<marker id="Oakland" category="domestic_pool" label="Oakland, CA" lat="37.80375288" lon="-122.30881912"/>
+<marker id="Oakland" category="domestic_pool" label="Oakland, CA" lat="37.8047118" lon="-122.3124958"/>
+<marker id="Philadelphia" category="marine_pool_neutral" label="Philadelphia, PA" lat="39.93402593333333" lon="-75.1291572"/>
+<marker id="Pittsburgh" category="marine_pool_neutral" label="Pittsburgh, PA" lat="40.4062518" lon="-79.779914"/>
+<marker id="Port Newark" category="marine_pool_neutral" label="Port Newark, NJ" lat="40.71507725" lon="-74.16103065"/>
+<marker id="Portland" category="depots_term_lease" label="Portland, OR" lat="45.553054" lon="-122.723547"/>
+<marker id="Portland" category="depots_term_lease" label="Portland, OR" lat="45.6133303" lon="-122.743717775"/>
+<marker id="Seabrook" category="marine_pool_neutral" label="Seabrook, TX" lat="29.6044148" lon="-94.9991525"/>
+<marker id="Seattle" category="depots_term_lease" label="Seattle, WA" lat="47.534129899999996" lon="-122.30380755"/>
+<marker id="Seattle" category="domestic_pool" label="Seattle, WA" lat="47.564581" lon="-122.3446851"/>
+<marker id="Seattle" category="depots_term_lease" label="Seattle, WA" lat="47.58031685" lon="-122.342743825"/>
+<marker id="South Kearny" category="marine_pool_neutral" label="South Kearny, NJ" lat="40.7407374" lon="-74.0883112"/>
+<marker id="St.Paul" category="depots_term_lease" label="St.Paul, MN" lat="44.9695497" lon="-93.1742954"/>
+<marker id="Staten Island" category="marine_pool_neutral" label="Staten Island, NY" lat="40.6374543" lon="-74.1851231"/>
+<marker id="Tacoma" category="depots_term_lease" label="Tacoma, WA" lat="47.26880235" lon="-122.397598575"/>
+<marker id="Tampa" category="marine_pool_neutral" label="Tampa, FL" lat="27.94224405" lon="-82.41100560000001"/>
+<marker id="Von Ormy" category="marine_pool_neutral" label="Von Ormy, TX" lat="29.28688985" lon="-98.60552775"/>
+<marker id="Westego" category="marine_pool_neutral" label="Westego, LA" lat="29.9196204" lon="-90.2076528"/>
+<marker id="Wilmer" category="marine_pool_neutral" label="Wilmer, TX" lat="32.6124651" lon="-96.6894073"/>
+</jqm_markers>

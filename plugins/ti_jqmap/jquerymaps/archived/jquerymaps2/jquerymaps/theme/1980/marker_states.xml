@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jqm_markers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_markers.xsd">
+    <marker id="14792" category="city_4" label="New York" lat="40.67" lon="-73.94" popup="Population: 8.175.133"/>
+    <marker id="2141" category="city_4" label="Los Angeles" lat="34.0522222" lon="-118.2427778" popup="Population: 3.792.621"/>
+    <marker id="5416" category="city_4" label="Chicago" lat="41.85" lon="-87.65" popup="Population: 2.695.598"/>
+    <marker id="20958" category="city_4" label="Houston" lat="29.7630556" lon="-95.3630556" popup="Population: 2.099.451"/>
+    <marker id="18293" category="city_4" label="Philadelphia" lat="39.9522222" lon="-75.1641667" popup="Population: 1.526.006"/>
+    <marker id="843" category="city_4" label="Phoenix" lat="33.4483333" lon="-112.0733333" popup="Population: 1.445.632"/>
+    <marker id="21076" category="city_4" label="San Antonio" lat="29.4238889" lon="-98.4933333" popup="Population: 1.327.407"/>
+    <marker id="2148" category="city_4" label="San Diego" lat="32.7152778" lon="-117.1563889" popup="Population: 1.307.402"/>
+    <marker id="21189" category="city_4" label="Dallas" lat="32.7833333" lon="-96.8" popup="Population: 1.197.816"/>
+    <marker id="1708" category="city_3" label="San Jose" lat="37.3394444" lon="-121.8938889" popup="Population: 945.942"/>
+    <marker id="3253" category="city_3" label="Jacksonville" lat="30.3319444" lon="-81.6558333" popup="Population: 821.784"/>
+    <marker id="6280" category="city_3" label="Indianapolis" lat="39.7683333" lon="-86.1580556" popup="Population: 820.445"/>
+    <marker id="1738" category="city_3" label="San Francisco" lat="37.775" lon="-122.4183333" popup="Population: 805.235"/>
+    <marker id="21654" category="city_3" label="Austin" lat="30.2669444" lon="-97.7427778" popup="Population: 790.390"/>
+    <marker id="16526" category="city_3" label="Columbus" lat="39.9611111" lon="-82.9988889" popup="Population: 787.033"/>
+    <marker id="21110" category="city_3" label="Fort Worth" lat="32.7252778" lon="-97.3205556" popup="Population: 741.206"/>
+    <marker id="15729" category="city_3" label="Charlotte" lat="35.2269444" lon="-80.8433333" popup="Population: 731.424"/>
+    <marker id="10463" category="city_3" label="Detroit" lat="42.3313889" lon="-83.0458333" popup="Population: 713.777"/>
+    <marker id="21939" category="city_3" label="El Paso" lat="31.7586111" lon="-106.4863889" popup="Population: 649.121"/>
+    <marker id="20531" category="city_3" label="Memphis" lat="35.1494444" lon="-90.0488889" popup="Population: 646.889"/>
+    <marker id="9305" category="city_3" label="Baltimore" lat="39.3" lon="-76.61" popup="Population: 620.961"/>
+    <marker id="24394" category="city_3" label="Boston" lat="42.34" lon="-71.02" popup="Population: 617.594"/>
+    <marker id="22728" category="city_3" label="Seattle" lat="47.6063889" lon="-122.3308333" popup="Population: 608.660"/>
+    <marker id="2947" category="city_3" label="Washington" lat="38.895" lon="-77.0366667" popup="Population: 601.723"/>
+    <marker id="20259" category="city_3" label="Nashville" lat="36.1658333" lon="-86.7844444" popup="Population: 601.222"/>
+    <marker id="2626" category="city_3" label="Denver" lat="39.7391667" lon="-104.9841667" popup="Population: 600.158"/>
+    <marker id="8317" category="city_3" label="Louisville" lat="38.2541667" lon="-85.7594444" popup="Population: 597.337"/>
+    <marker id="23563" category="city_3" label="Milwaukee" lat="43.0388889" lon="-87.9063889" popup="Population: 594.833"/>
+    <marker id="18005" category="city_3" label="Portland" lat="45.5236111" lon="-122.675" popup="Population: 583.779"/>
+    <marker id="17605" category="city_3" label="Oklahoma City" lat="35.4675" lon="-97.5161111" popup="Population: 579.999"/>
+    <marker id="13409" category="city_3" label="Las Vegas" lat="36.175" lon="-115.1363889" popup="Population: 573.014"/>
+    <marker id="14260" category="city_3" label="Albuquerque" lat="35.0844444" lon="-106.6505556" popup="Population: 545.852"/>
+    <marker id="797" category="city_3" label="Tucson" lat="32.2216667" lon="-110.9258333" popup="Population: 520.116"/>
+    <marker id="1845" category="city_2" label="Fresno" lat="36.7477778" lon="-119.7713889" popup="Population: 494.665"/>
+    <marker id="1997" category="city_2" label="Sacramento" lat="38.5816667" lon="-121.4933333" popup="Population: 466.488"/>
+    <marker id="1519" category="city_2" label="Long Beach" lat="33.7669444" lon="-118.1883333" popup="Population: 462.257"/>
+    <marker id="12003" category="city_2" label="Kansas City" lat="39.12" lon="-94.55" popup="Population: 459.787"/>
+    <marker id="938" category="city_2" label="Mesa" lat="33.4222222" lon="-111.8219444" popup="Population: 439.041"/>
+    <marker id="22558" category="city_2" label="Virginia Beach" lat="36.8527778" lon="-75.9783333" popup="Population: 437.994"/>
+    <marker id="4154" category="city_2" label="Atlanta" lat="33.7488889" lon="-84.3880556" popup="Population: 420.003"/>
+    <marker id="2561" category="city_2" label="Colorado Springs" lat="38.8338889" lon="-104.8208333" popup="Population: 416.427"/>
+    <marker id="13065" category="city_2" label="Omaha" lat="41.2586111" lon="-95.9375" popup="Population: 408.958"/>
+    <marker id="15408" category="city_2" label="Raleigh" lat="35.7719444" lon="-78.6388889" popup="Population: 403.892"/>
+    <marker id="3476" category="city_2" label="Miami" lat="25.7738889" lon="-80.1938889" popup="Population: 399.457"/>
+    <marker id="17069" category="city_2" label="Cleveland" lat="41.4994444" lon="-81.6955556" popup="Population: 396.815"/>
+    <marker id="17885" category="city_2" label="Tulsa" lat="36.1538889" lon="-95.9925" popup="Population: 391.906"/>
+    <marker id="1730" category="city_2" label="Oakland" lat="37.8044444" lon="-122.2697222" popup="Population: 390.724"/>
+    <marker id="11137" category="city_2" label="Minneapolis" lat="44.98" lon="-93.2636111" popup="Population: 382.578"/>
+    <marker id="7726" category="city_2" label="Wichita" lat="37.6922222" lon="-97.3372222" popup="Population: 382.368"/>
+    <marker id="657562" category="city_2" label="San Juan" lat="18.44" lon="-66.13" popup="Population: 381.931"/>
+    <marker id="21121" category="city_2" label="Arlington" lat="32.7355556" lon="-97.1077778" popup="Population: 379.125"/>
+    <marker id="4272" category="city_2" label="Honolulu" lat="21.3069444" lon="-157.8583333" popup="Population: 374.858"/>
+    <marker id="11845" category="city_2" label="Saint Louis" lat="38.64" lon="-90.24" popup="Population: 348.995"/>
+    <marker id="3061" category="city_2" label="Tampa" lat="27.9472222" lon="-82.4586111" popup="Population: 340.041"/>
+    <marker id="1498" category="city_2" label="Santa Ana" lat="33.7455556" lon="-117.8669444" popup="Population: 337.850"/>
+    <marker id="1635" category="city_2" label="Anaheim" lat="33.8352778" lon="-117.9136111" popup="Population: 335.578"/>
+    <marker id="16354" category="city_2" label="Cincinnati" lat="39.1619444" lon="-84.4569444" popup="Population: 332.646"/>
+    <marker id="2263" category="city_2" label="Bakersfield" lat="35.3733333" lon="-119.0177778" popup="Population: 332.043"/>
+    <marker id="2607" category="city_2" label="Aurora" lat="39.7294444" lon="-104.8313889" popup="Population: 317.826"/>
+    <marker id="19222" category="city_2" label="Pittsburgh" lat="40.4405556" lon="-79.9961111" popup="Population: 306.540"/>
+    <marker id="2199" category="city_2" label="Riverside" lat="33.9533333" lon="-117.3952778" popup="Population: 300.855"/>
+</jqm_markers>
