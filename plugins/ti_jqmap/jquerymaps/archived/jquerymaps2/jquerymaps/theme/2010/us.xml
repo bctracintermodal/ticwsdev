@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jqm_theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_theme.xsd" reloadInterval="" reloadFeatures="false" reloadFeatureCategories="false" reloadMarkers="false" reloadMarkerCategories="false" 
+	id="us" 
+	shapesUrl="../../maps/fm-us.xml" 
+	backgroundImageUrl="" 
+	
+	featuresAndMarkersURLS="-----------------------------" 
+	markersUrl="markerstates.xml" 
+	featuresUrl="featurestates.xml" 
+	
+	
+	featureCategoriesUrl="feature_categories.xml" 
+	markerCategoriesUrl="marker_categories.xml">
+	<platformFunctionality id="default" calculatedMapAreas="false" onMouseOverCalculateInterval="" displayPolygons="true" />
+</jqm_theme>

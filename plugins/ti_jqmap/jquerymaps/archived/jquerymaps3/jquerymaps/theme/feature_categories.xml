@@ -1,0 +1,12 @@
+<jqm_featureCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/jqm_featureCategories.xsd">
+	<category id="region" enabled="true" zoom="true" >
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10" />
+		<action event="onClick" target="js" jsFunction="jqmSetRegionMap" />
+	</category>
+	<category id="region_none" enabled="false" zoom="false" >
+		<style event="onMouseOut" fillColor="#ccc" strokeColor="#fff" strokeWidth="1" />
+	</category>
+	<category id="state" enabled="false" zoom="false" >
+		<style event="onMouseOut" fillColor="rgba(255,255,255,0.1)" strokeColor="#fff" strokeWidth="1" />
+	</category>
+</jqm_featureCategories>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jqm_markerCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_markerCategories.xsd">
+	<category id="marine_pool_neutral" enabled="true">
+		<markerStyle event="onMouseOut" iconUrl="../../../jquerymaps/images/icons/icon_neutral.png" scale="1" opacity="1" visible="true"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayMarkerPopup"/>
+	</category>
+	<category id="marine_pool_private" enabled="true">
+		<markerStyle event="onMouseOut" iconUrl="../../../jquerymaps/images/icons/icon_private.png" scale="1" opacity="1" visible="true"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayMarkerPopup"/>
+	</category>
+	<category id="marine_pool_coop" enabled="true">
+		<markerStyle event="onMouseOut" iconUrl="../../../jquerymaps/images/icons/icon_coop.png" scale="1" opacity="1" visible="true"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayMarkerPopup"/>
+	</category>
+	<category id="domestic_pool" enabled="true">
+		<markerStyle event="onMouseOut" iconUrl="../../../jquerymaps/images/icons/icon_domestic.png" scale="1" opacity="1" visible="true"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayMarkerPopup"/>
+	</category>
+	<category id="depots_term_lease" enabled="true">
+		<markerStyle event="onMouseOut" iconUrl="../../../jquerymaps/images/icons/icon_depots.png" scale="1" opacity="1" visible="false"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayMarkerPopup"/>
+	</category>
+</jqm_markerCategories>

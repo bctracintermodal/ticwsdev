@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jqm_featureCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/jqm_featureCategories.xsd">
+	<category id="state_1" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#FEFBDA" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+	<category id="state_2" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#FDF15B" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+	<category id="state_3" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#FBCB0D" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+	<category id="state_4" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#F27621" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+	<category id="state_5" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#F93013" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+	<category id="state_6" enabled="true" zoom="true">
+		<style event="onMouseOut" fillColor="#B61014" strokeColor="#e5e5e5" strokeWidth="1"/>
+		<action event="onMouseOver" target="infowindow" infoWindowDiv="jqm_popup" align="mouse,10,10"/>
+		<action event="onClick" target="js" jsFunction="jqmDisplayFeaturePopup"/>
+		<letteredLabel attributeName="label_map" textStyle="label"/>
+	</category>
+</jqm_featureCategories>
